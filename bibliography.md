@@ -1,0 +1,1 @@
+Olson, Vibeke. "Blood, sweat, tears, and milk: "Fluid" veneration, sensory contact, and corporeal presence in medieval devotional art." In _Binding the Absent Body in Medieval and Modern Art_. Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 11-31. London and New York: Routledge, 2017.
