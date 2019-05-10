@@ -14,6 +14,8 @@ Feltman, Jennifer M. "Imagining the sorrows of death and pains of hell in the _H
 
 Mandziuk, Natalie M. "Drawn to scale: The medieval monastic's virtual pilgrimage through sacred measurement." Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 73-92. London and New York: Routledge, 2017. ILL
 
+Marzinik, Sonja. _Masterpieces: Early Medieval Art_. The British Museum Press.
+
 Olson, Vibeke. "Blood, sweat, tears, and milk: "Fluid" veneration, sensory contact, and corporeal presence in medieval devotional art." In _Binding the Absent Body in Medieval and Modern Art_. Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 11-31. London and New York: Routledge, 2017. ILL
 
 Strickland, Debra Higgs. "Edward I, Exodus, and England on the Hereford World Map." _Speculum_ 93.2 (2018): 420-469.
