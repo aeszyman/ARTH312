@@ -11,7 +11,7 @@ This course examines art and architecture in Western Europe from early to late M
 * Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987).
 
 ## Schedule
-#### August 26
+#### August 26: Introductions
 #### August 28
 #### September 2
 #### September 4
@@ -24,9 +24,9 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 30
 #### October 2
 #### October 7
-#### October 9
+#### October 9: Midterm Exam
 #### October 14: Fall Break
-#### October 16
+#### October 16: Field Trip
 #### October 21
 #### October 23
 #### October 28
