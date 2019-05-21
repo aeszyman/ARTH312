@@ -1,5 +1,8 @@
 ## Medieval Art in Western Europe (8th-15th Centuries)
 
+#### Course Description
+This course examines art and architecture in Western Europe from early to late Middle Ages. It considers the changing visual experiences associated with the Early Medieval, Carolingian, Ottonian, Romanesque, and Gothic periods.
+
 #### Optional Textbooks:
 * Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002).
 * Veronica Sekules, _Medieval Art_ (Oxford University Press, 2001).
