@@ -38,7 +38,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### November 18: Legacies of the Middle Ages
 * _The Cathedral_ (2002)
 
-Short animation. "A space fantasy about an explorer who pays a visit to an unusual cathedral built with organic materials." (IMDb)
+Short animation. "A space fantasy about an explorer who pays a visit to an unusual cathedral built with organic materials." (IMDb) Based on a short story by Jacek Dukaj.
 
 #### November 20: Presentations Workshop
 #### November 25: Oral Presentations
