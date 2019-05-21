@@ -35,10 +35,12 @@ This course examines art and architecture in Western Europe from early to late M
 #### November 6
 #### November 11
 #### November 13
-#### November 18
-#### November 20
-#### November 25
+#### November 18: Legacies of the Middle Ages
+* _The Cathedral_ (2002)
+Short animation. "A space fantasy about an explorer who pays a visit to an unusual cathedral built with organic materials." (IMDb)
+#### November 20: Presentations Workshop
+#### November 25: Oral Presentations
 #### November 27: Thanksgiving Break
-#### December 2
-#### December 4
+#### December 2: Oral Presentations
+#### December 4: Oral Presentations
 #### December 10: Final Exam (9AM-12PM)
