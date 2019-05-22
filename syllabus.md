@@ -23,7 +23,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 25
 #### September 30
 #### October 2
-#### October 7
+#### October 7: Review
 #### October 9: Midterm Exam
 #### October 14: Fall Break
 #### October 16: Field Trip
@@ -42,5 +42,5 @@ This course examines art and architecture in Western Europe from early to late M
 #### November 25: Oral Presentations
 #### November 27: Thanksgiving Break
 #### December 2: Oral Presentations
-#### December 4: Oral Presentation and Conclusions
+#### December 4: Review and Conclusions
 #### December 10: Final Exam (9AM-12PM)
