@@ -1,5 +1,7 @@
 Anderson, Benjamin. _Cosmos and Community in Early Medieval Art_. Yale University Press, 2017. Electronic Book
 
+Berzock, Kathleen Bickford. _Caravans of Gold, Fragments in Time: Art, Culture, and Exchange Across Medieval Saharan Africa_. Princeton University Press, 2019.
+
 Bindman, David, Henry Louis Gates, Jr., and Karen C.C. Dalton. _The Image of the Black in Western Art_. Cambridge, Mass.: Belknap Press of Harvard University Press: In collaboration with the W.E.B. Du Bois Institute for African and African American Research; Houston, Tex.: Menil Collection, 2010-.
 
 Boynton, Susan and Diane J. Reilly, eds. _Resounding Images: Medieval Intersections of Art, Music, and Sound_. Brepols, 2015.
