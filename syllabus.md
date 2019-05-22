@@ -1,4 +1,4 @@
-## Medieval Art in Western Europe (8th-15th Centuries)
+## Medieval Art and Architecture in Western Europe (8th-15th Centuries)
 
 #### Description
 This course examines art and architecture in Western Europe from early to late Middle Ages. It considers the changing visual experiences associated with the Early Medieval, Carolingian, Ottonian, Romanesque, and Gothic periods.
@@ -35,7 +35,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### November 6
 #### November 11
 #### November 13
-#### November 18: Legacies of the Middle Ages
+#### November 18: Legacy of the Middle Ages
 * _The Cathedral_ (2002): Short animation. "A space fantasy about an explorer who pays a visit to an unusual cathedral built with organic materials." (IMDb) Based on a short story by Jacek Dukaj.
 
 #### November 20: Presentations Workshop
