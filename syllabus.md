@@ -33,8 +33,8 @@ This course examines art and architecture in Western Europe from early to late M
 #### October 30
 #### November 4
 #### November 6
-#### November 11
-#### November 13: Field Trip to Rare Book Room
+#### November 11: Field Trip to Rare Book Room
+#### November 13: Legacy of the Middle Ages
 #### November 18: Legacy of the Middle Ages
 * _The Cathedral_ (2002): Animation. "A space fantasy about an explorer who pays a visit to an unusual cathedral built with organic materials." (IMDb) Based on short story by Jacek Dukaj.
 
