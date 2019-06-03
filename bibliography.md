@@ -23,3 +23,5 @@ Olson, Vibeke. "Blood, sweat, tears, and milk: "Fluid" veneration, sensory conta
 Rowe, Nina. _The Jew, the Cathedral and the Medieval City: Synagoga and Ecclesia in the Thirteenth Century_. Cambridge; New York: Cambridge University Press, 2011.
 
 Strickland, Debra Higgs. "Edward I, Exodus, and England on the Hereford World Map." _Speculum_ 93.2 (2018): 420-469.
+
+Ziolkowski, Jan M. _The Juggler of Notre Dame and the Medievalizing of Modernity_. Open Book Publishers, 2018.
