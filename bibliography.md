@@ -14,6 +14,8 @@ Deliyannis, Deborah, Hendrik Dey, and Paolo Squatriti. _Fifty Early Medieval Thi
 
 Feltman, Jennifer M. "Imagining the sorrows of death and pains of hell in the _Hours of Catherine of Cleves_. Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 111-132. London and New York: Routledge, 2017. ILL
 
+Jotischky, Andrew. _A Hermit's Cookbook: Monks, Food and Fasting in the Middle Ages_. A&C Black, 2011.
+
 Larrington, Carolyne. _Winter Is Coming: The Medieval World of Game of Thrones_. Tauris, 2016.
 
 Mandziuk, Natalie M. "Drawn to scale: The medieval monastic's virtual pilgrimage through sacred measurement." Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 73-92. London and New York: Routledge, 2017. ILL
