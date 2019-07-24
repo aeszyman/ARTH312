@@ -20,9 +20,9 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 16: European Culture in the New Millennium
 #### September 18: Reliquaries and the Cult of Relics
 #### September 23: Pilgrimage and the Crusades
-#### September 25: Female Mystics: Hildegard of Bingen
-#### September 30: Picturing the "Other"
-#### October 2: Visualizing Conquest: Bayeux Tapestry
+#### September 25: Picturing the "Other"
+#### September 30: Visualizing Conquest: Bayeux Tapestry
+#### October 2: Female Mystics: Hildegard of Bingen
 #### October 7: Review
 #### October 9: Midterm Exam
 #### October 14: Fall Break
