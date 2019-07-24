@@ -12,27 +12,27 @@ This course examines art and architecture in Western Europe from early to late M
 
 ## Schedule
 #### August 26: Introductions
-#### August 28: Early Medieval
-#### September 2: Early Medieval
-#### September 4: Early Medieval
-#### September 9: Early Medieval
-#### September 11: Early Medieval
-#### September 16: Romanesque
-#### September 18: Romanesque
-#### September 23: Romanesque
-#### September 25: Romanesque
-#### September 30: Romanesque
-#### October 2: Field Trip to Virginia Museum of Fine Arts
+#### August 28: Field Trip to Virginia Museum of Fine Arts
+#### September 2: Europe after the Fall of Rome
+#### September 4: Carolingian Empire
+#### September 9: Ottonian Empire
+#### September 11: Medieval Monasteries and Books
+#### September 16: European Culture in the New Millennium
+#### September 18: Reliquaries and the Cult of Relics
+#### September 23: Pilgrimage
+#### September 25: Female Mystics: Hildegard of Bingen
+#### September 30: Picturing the "Other"
+#### October 2: Visualizing Conquest: Bayeux Tapestry
 #### October 7: Review
 #### October 9: Midterm Exam
 #### October 14: Fall Break
-#### October 16: Gothic
-#### October 21: Gothic
-#### October 23: Gothic
-#### October 28: Gothic
-#### October 30: Gothic
-#### November 4: Gothic
-#### November 6: Gothic
+#### October 16: "Gothic"
+#### October 21: Gothic Cathedrals
+#### October 23: Cities and Domestic Architecture
+#### October 28: Holy Roman Empire
+#### October 30: Kingship and Warfare
+#### November 4: Courtly Love
+#### November 6: The Black Death
 #### November 11: Field Trip to Rare Book Room
 #### November 13: Legacies of the Middle Ages
 #### November 18: Legacies of the Middle Ages
