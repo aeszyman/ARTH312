@@ -28,7 +28,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### October 14: Fall Break
 #### October 16: "Gothic"
 #### October 21: Gothic Cathedrals
-#### October 23: Cities and Domestic Architecture
+#### October 23: Urban and Domestic Spaces
 #### October 28: Holy Roman Empire
 #### October 30: Kingship and Warfare
 #### November 4: Courtly Love
