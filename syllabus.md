@@ -22,6 +22,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 18: Reliquaries and the Cult of Relics
 #### September 23: Pilgrimage and the Crusades
 #### September 25: Mapping the World and Picturing the "Other"
+* Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
 #### September 30: Visualizing Conquest: Bayeux Tapestry
 #### October 2: Female Mystics: Hildegard of Bingen
 #### October 7: Review
