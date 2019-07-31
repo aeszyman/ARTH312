@@ -14,7 +14,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### August 26: Introductions
 #### August 28: Field Trip to Virginia Museum of Fine Arts
 #### September 2: Europe after the Fall of Rome
-* Hidden Brain by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
+* _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
 #### September 4: Carolingian Empire
 #### September 9: Ottonian Empire
 #### September 11: Medieval Monasteries and Books
