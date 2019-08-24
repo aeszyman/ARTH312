@@ -11,6 +11,7 @@ This course examines art and architecture in Western Europe from early to late M
 * Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987).
 
 ## Schedule
+###### Week 1
 #### August 26: Introductions
 #### August 28: Field Trip to Virginia Museum of Fine Arts
 #### September 2: Europe after the Fall of Rome
