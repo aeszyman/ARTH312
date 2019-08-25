@@ -46,11 +46,27 @@ There will be ten one-page weekly assignments in this course. They will count to
 ## Analytical Summaries
 #### Secondary Sources (Book Chapters or Articles)
 For each analytical summary of a secondary source, consider the following questions:
-1. What is the reading's main subject?
-2. What is the author's main thesis?
-3. What evidence has the author used to support her thesis?
-4. What are the author's main conclusions?
-
+* What is the reading's main subject?
+* What is the author's main thesis?
+* What evidence has the author used to support her thesis?
+* What are the author's main conclusions?
+#### Historical Texts
+For each analytical summary of a historical text, consider the following questions:
+* What is the reading's main subject?
+* Who is the author? If the text is anonymous, try to infer something about the author's background from the text.
+* Does the text advance a particular perspective? If there are multiple texts by different authors, explain if they advance different perspectives on the same issue.
+* Cite a specific passage that stood out to you and explain why.
+#### Films
+For each analytical summary of a film, consider the following questions:
+1. What is the film about?
+2. Discuss two scenes that stood out to you and explain why.
+3. How does the film portray the Middle Ages?
+# Grading Schema
+| Excellent | Good | Average | Poor |
+| ------------- | ------------- | ------------- | ------------- |
+| 97-100% = A+ | 87-90% = B+ | 77-80% = C+ | 67-70% = D+ |
+| 94-97% = A | 84-87 = B | 74-77% = C | 64-67% = D |
+| 90-94% = A- | 80-84% = B- | 70-74% = C- | 60-64% = D- |
 ## Schedule
 ###### Week 1
 #### August 26: Introductions
