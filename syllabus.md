@@ -66,13 +66,13 @@ This course examines art and architecture in Western Europe from early to late M
 #### November 6: The Black Death
 * Watch film [_Seventh Seal_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=217&recCount=25&recPointer=0&bibId=2012715).
 ###### Week 12
-#### November 11: Field Trip to Rare Book Room
-#### November 13: Legacy of the Middle Ages: Collegiate Gothic
-* Campus tour
+#### November 11: The End of Time: The Visual Culture of the Apocalypse
+#### November 13: Field Trip to Rare Book Room
 ###### Week 13
 #### November 18: Legacy of the Middle Ages
+* Campus tour
+#### November 20: Legacy of the Middle Ages
 * Jennifer Schuessler, ["Medieval Scholars Joust with White Nationalists. And One Another."](https://www.nytimes.com/2019/05/05/arts/the-battle-for-medieval-studies-white-supremacy.html) _The New York Times_, May 5, 2019.
-#### November 20: Presentations Workshop
 ###### Week 14
 #### November 25: Assignment 10
 #### November 27: Thanksgiving Break
