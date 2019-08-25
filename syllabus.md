@@ -45,6 +45,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 30: Visualizing Conquest: Bayeux Tapestry
 * "The Norman Conquest of England." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 271-278.
 #### October 2: Female Mystics: Hildegard of Bingen
+* Watch film [_Vision_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=188&recCount=25&recPointer=1&bibId=1220282).
 ###### Week 7
 #### October 7: Review
 #### October 9: Midterm Exam
