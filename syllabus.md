@@ -14,7 +14,7 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 1
 #### August 26: Introductions
 #### August 28: Europe after the Fall of Rome
-* Watch [“Rome Reborn”](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
+* Watch [Rome Reborn](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
 ###### Week 2
 #### September 2: Europe after the Fall of Rome
 #### September 4: Early Medieval Monasteries and Books
