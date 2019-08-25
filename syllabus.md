@@ -56,13 +56,15 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 9
 #### October 21: Gothic Cathedrals
 * "On the Question of the Participation of the Common People in the Building of Gothic Churches." In: Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987), 23-30.
-#### October 23: Urban and Domestic Spaces
+#### October 23: Kingship and Warfare
+* Meredith Cohen, _The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_ (Cambridge University Press, 2015).
+#### Urban and Domestic Spaces
 * Keith D. Leilly, "Founding a City, Founding a World," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009).
 ###### Week 10
-#### October 28: Holy Roman Empire
+#### October 28: Urban and Domestic Spaces
+* Keith D. Leilly, "Founding a City, Founding a World," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009).
+#### October 30: Holy Roman Empire
 * Elina Gertsman, _Worlds Within: Opening the Medieval Shrine Madonna_ (The Pennsylvania State University Press, 2015).
-#### October 30: Kingship and Warfare
-* Meredith Cohen, _The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_ (Cambridge University Press, 2015).
 ###### Week 11
 #### November 4: Courtly Love
 #### November 6: The Black Death
