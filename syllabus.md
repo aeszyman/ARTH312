@@ -67,6 +67,7 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 12
 #### November 11: Field Trip to Rare Book Room
 #### November 13: Legacy of the Middle Ages: Collegiate Gothic
+* Campus tour
 ###### Week 13
 #### November 18: Legacy of the Middle Ages
 * Jennifer Schuessler, ["Medieval Scholars Joust with White Nationalists. And One Another."](https://www.nytimes.com/2019/05/05/arts/the-battle-for-medieval-studies-white-supremacy.html) _The New York Times_, May 5, 2019.
