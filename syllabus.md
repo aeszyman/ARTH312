@@ -17,12 +17,12 @@ This course examines art and architecture in Western Europe from early to late M
 * Watch [Rome Reborn](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
 ###### Week 2
 #### September 2: Early Medieval Monasteries and Books
-* Instructions for a Painter of Miniatures (Fourth Century).
+* "Instructions for a Painter of Miniatures (Fourth Century)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 23-25.
 #### September 4: Carolingian Empire
 * Benjamin Anderson, "Carolingian Consensus," in _Cosmos and Community in Early Medieval Art_ (Yale University Press, 2017).
 ###### Week 3
 #### September 9: Ottonian Empire
-* The Empire: Imperial Robes and Insignia.
+* "The Empire: Imperial Robes and Insignia." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
 #### September 11: European Culture in the New Millennium
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
 ###### Week 4
