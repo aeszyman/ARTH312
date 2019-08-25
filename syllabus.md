@@ -55,7 +55,7 @@ This course examines art and architecture in Western Europe from early to late M
 * Michael Camille, "New Ways of Seeing Gothic Art," in _Gothic Art: Glorious Visions_ (Abrams, 1996): 8-25.
 ###### Week 9
 #### October 21: Gothic Cathedrals
-* TBA
+* "On the Question of the Participation of the Common People in the Building of Gothic Churches." In: Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987), 23-30.
 #### October 23: Urban and Domestic Spaces
 * Keith D. Leilly, "Founding a City, Founding a World," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009).
 ###### Week 10
