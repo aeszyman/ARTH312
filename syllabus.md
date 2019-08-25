@@ -18,11 +18,11 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 2
 #### September 2: Early Medieval Monasteries and Books
 * Instructions for a Painter of Miniatures (Fourth Century).
-#### September 4: Ottonian Empire
-* 
+#### September 4: Carolingian Empire
+* Benjamin Anderson, "Carolingian Consensus," in _Cosmos and Community in Early Medieval Art_ (Yale University Press, 2017).
 ###### Week 3
-#### September 9: Carolingian Empire
-* Benjamin Anderson, "Carolingian Consensus," in _Cosmos and Community in Early Medieval Art_ (Yale University Press, 2017). 
+#### September 9: Ottonian Empire
+* The Empire: Imperial Robes and Insignia.
 #### September 11: European Culture in the New Millennium
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
 ###### Week 4
