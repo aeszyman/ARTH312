@@ -50,7 +50,9 @@ There will be ten one-page weekly assignments in this course. They will count to
 | 90-94% = A- | 80-84% = B- | 70-74% = C- | 60-64% = D- |
 ## Analytical Summaries
 1 page (typed, double-spaced)
+
 due before class on the appointed day
+
 Upload to Box.
 #### Secondary Sources (Book Chapters or Articles)
 For each analytical summary of a secondary source, consider the following questions:
