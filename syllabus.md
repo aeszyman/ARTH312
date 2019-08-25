@@ -32,14 +32,19 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 6
 #### September 30: Visualizing Conquest: Bayeux Tapestry
 #### October 2: Female Mystics: Hildegard of Bingen
+###### Week 7
 #### October 7: Review
 #### October 9: Midterm Exam
+###### Week 8
 #### October 14: Fall Break
 #### October 16: "Gothic"
+###### Week 9
 #### October 21: Gothic Cathedrals
 #### October 23: Urban and Domestic Spaces
+###### Week 10
 #### October 28: Holy Roman Empire
 #### October 30: Kingship and Warfare
+###### Week 11
 #### November 4: Courtly Love
 #### November 6: The Black Death
 #### November 11: Field Trip to Rare Book Room
