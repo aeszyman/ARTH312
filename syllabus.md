@@ -9,6 +9,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### Sourcebooks:
 * Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986).
 * Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987).
+* Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015).
 
 ## Schedule
 ###### Week 1
@@ -28,6 +29,7 @@ This course examines art and architecture in Western Europe from early to late M
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
 ###### Week 4
 #### September 16: Reliquaries and the Cult of Relics
+* "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 #### September 18: Pilgrimage and the Crusades
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 #### Friday, September 20, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
