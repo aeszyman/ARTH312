@@ -17,7 +17,9 @@ This course examines art and architecture in Western Europe from early to late M
 * Watch [Rome Reborn](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
 ###### Week 2
 #### September 2: Early Medieval Monasteries and Books
+* Instructions for a Painter of Miniatures (Fourth Century).
 #### September 4: Ottonian Empire
+* 
 ###### Week 3
 #### September 9: Carolingian Empire
 #### September 11: European Culture in the New Millennium
