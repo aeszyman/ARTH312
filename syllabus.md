@@ -39,7 +39,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 23: The Crusades
 * "The First Crusade." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 261-270.
 #### September 25: Mapping the World and Picturing the "Other"
-* Asa Simon Mittman, "Are the 'monstrous races" races"? _Postmedieval: A Journal of Medieval Cultural Studies_ 6.1 (2015): 36-51.
+* Asa Simon Mittman, "Are the 'monstrous races" races?" _Postmedieval: A Journal of Medieval Cultural Studies_ 6.1 (2015): 36-51.
 * Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
 ###### Week 6
 #### September 30: Visualizing Conquest: Bayeux Tapestry
