@@ -42,7 +42,12 @@ The use of laptops is discouraged. If you absolutely need to use a laptop, you m
 | Final Exam | 20% |
 
 There will be ten one-page weekly assignments in this course. They will count towards your attendance and participation grade. Almost all of these weekly assignments are analytical summaries.
-
+# Grading Schema
+| Excellent | Good | Average | Poor |
+| ------------- | ------------- | ------------- | ------------- |
+| 97-100% = A+ | 87-90% = B+ | 77-80% = C+ | 67-70% = D+ |
+| 94-97% = A | 84-87 = B | 74-77% = C | 64-67% = D |
+| 90-94% = A- | 80-84% = B- | 70-74% = C- | 60-64% = D- |
 ## Analytical Summaries
 #### Secondary Sources (Book Chapters or Articles)
 For each analytical summary of a secondary source, consider the following questions:
@@ -61,12 +66,6 @@ For each analytical summary of a film, consider the following questions:
 1. What is the film about?
 2. Discuss two scenes that stood out to you and explain why.
 3. How does the film portray the Middle Ages?
-# Grading Schema
-| Excellent | Good | Average | Poor |
-| ------------- | ------------- | ------------- | ------------- |
-| 97-100% = A+ | 87-90% = B+ | 77-80% = C+ | 67-70% = D+ |
-| 94-97% = A | 84-87 = B | 74-77% = C | 64-67% = D |
-| 90-94% = A- | 80-84% = B- | 70-74% = C- | 60-64% = D- |
 ## Schedule
 ###### Week 1
 #### August 26: Introductions
