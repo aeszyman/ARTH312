@@ -16,6 +16,8 @@ Deliyannis, Deborah, Hendrik Dey, and Paolo Squatriti. _Fifty Early Medieval Thi
 
 Feltman, Jennifer M. "Imagining the sorrows of death and pains of hell in the _Hours of Catherine of Cleves_. Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 111-132. London and New York: Routledge, 2017. ILL
 
+Gertsman, Elina and Barbara H. Rosenwein. _The Middle Ages in 50 Objects_. Cambridge University Press, 2018.
+
 Guérin, Sarah M. "Meaningful Spectacles: Gothic Ivories Staging the Divine." _The Art Bulletin_ 45.1 (March 2013): 53-77.
 
 Jotischky, Andrew. _A Hermit's Cookbook: Monks, Food and Fasting in the Middle Ages_. A&C Black, 2011.
