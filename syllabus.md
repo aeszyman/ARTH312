@@ -18,7 +18,7 @@ You are not required to purchase these textbooks. They are on reserve at the lib
 * Andreas Petzold, _Romanesque Art_ (New York: Abrams, 1995).
 * Michael Camille, _Gothic Art: Glorious Visions_ (New York: Abrams, 1996).
 #### Sourcebooks:
-You are not required to purchase these sourcebooks. They are on reserve at the library. The assigned readings from the sourcebooks are available via the library's website.
+You are not required to purchase these sourcebooks. They are on reserve at the library. The assigned readings from these sourcebooks are available via the library's website.
 * Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986).
 * Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987).
 * Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015).
