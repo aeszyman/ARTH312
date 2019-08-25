@@ -47,15 +47,19 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 11
 #### November 4: Courtly Love
 #### November 6: The Black Death
+###### Week 12
 #### November 11: Field Trip to Rare Book Room
 #### November 13: Legacy of the Middle Ages: Collegiate Gothic
+###### Week 13
 #### November 18: Legacy of the Middle Ages
 * Jennifer Schuessler, ["Medieval Scholars Joust with White Nationalists. And One Another."](https://www.nytimes.com/2019/05/05/arts/the-battle-for-medieval-studies-white-supremacy.html) _The New York Times_, May 5, 2019.
 * _The Cathedral_ (2002): Animation. "A space fantasy about an explorer who pays a visit to an unusual cathedral built with organic materials." (IMDb) Based on short story by Jacek Dukaj.
-
 #### November 20: Presentations Workshop
+###### Week 14
 #### November 25: Oral Presentations
 #### November 27: Thanksgiving Break
+###### Week 15
 #### December 2: Oral Presentations
 #### December 4: Review and Conclusions
-#### December 10: Final Exam (9AM-12PM)
+#### Final Exam
+December 10, 9 am-12 pm)
