@@ -24,6 +24,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 9: Ottonian Empire
 * "The Empire: Imperial Robes and Insignia." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
 #### September 11: European Culture in the New Millennium
+* Andreas Petzold, "The Definition of Romanesque Art," in _Romanesque Art_ (Prentice Hall, 1995), 6-23.
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
 ###### Week 4
 #### September 16: Reliquaries and the Cult of Relics
