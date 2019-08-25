@@ -13,7 +13,8 @@ This course examines art and architecture in Western Europe from early to late M
 ## Schedule
 ###### Week 1
 #### August 26: Introductions
-#### August 28: Field Trip to Virginia Museum of Fine Arts
+#### August 28: Europe after the Fall of Rome
+* Watch [“Rome Reborn”](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
 ###### Week 2
 #### September 2: Europe after the Fall of Rome
 #### September 4: Early Medieval Monasteries and Books
@@ -24,6 +25,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 16: European Culture in the New Millennium
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
 #### September 18: Reliquaries and the Cult of Relics
+#### Friday, September 20, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
 #### September 23: Pilgrimage and the Crusades
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
