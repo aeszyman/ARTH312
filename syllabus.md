@@ -67,10 +67,12 @@ This course examines art and architecture in Western Europe from early to late M
 * Elina Gertsman, _Worlds Within: Opening the Medieval Shrine Madonna_ (The Pennsylvania State University Press, 2015).
 ###### Week 11
 #### November 4: Courtly Love
+* Michael Camille, "Love's Gifts," in _The Medieval Art of Love: Objects and Subjects of Desire_ (New York: Abrams, 1998), 50-71.
 #### November 6: The Black Death
 * Watch film [_Seventh Seal_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=217&recCount=25&recPointer=0&bibId=2012715).
 ###### Week 12
 #### November 11: The End of Time: The Visual Culture of the Apocalypse
+*
 #### November 13: Field Trip to Rare Book Room
 ###### Week 13
 #### November 18: Legacy of the Middle Ages
