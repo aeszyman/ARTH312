@@ -60,6 +60,7 @@ This course examines art and architecture in Western Europe from early to late M
 * Keith D. Leilly, "Founding a City, Founding a World," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009).
 ###### Week 10
 #### October 28: Holy Roman Empire
+* Elina Gertsman, _Worlds Within: Opening the Medieval Shrine Madonna_ (The Pennsylvania State University Press, 2015).
 #### October 30: Kingship and Warfare
 ###### Week 11
 #### November 4: Courtly Love
