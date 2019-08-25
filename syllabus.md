@@ -10,6 +10,7 @@ This course examines art and architecture in Western Europe from early to late M
 * Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986).
 * Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987).
 * Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015).
+* Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018).
 
 ## Schedule
 ###### Week 1
@@ -30,12 +31,13 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 4
 #### September 16: Reliquaries and the Cult of Relics
 * "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
-#### September 18: Pilgrimage and the Crusades
+#### September 18: Pilgrimage
 * Gary Vikan, "Pilgrims and Pilgrimage," in _Early Byzantine Pilgrimage Art_, rev. ed. (Dumbarton Oaks, 2010), 2-12.
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 #### Friday, September 20, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
-#### September 23: Pilgrimage and the Crusades
+#### September 23: The Crusades
+* "The First Crusade." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 261-270.
 #### September 25: Mapping the World and Picturing the "Other"
 * Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
 ###### Week 6
