@@ -153,5 +153,4 @@ For each analytical summary of a film, consider the following questions:
 #### December 2: Oral Presentations
 #### December 4: Oral Presentations
 #### Friday, December 6, 5:30 pm: Review and Conclusions
-#### Final Exam
-December 10, 9 am-12 pm
+#### Final Exam: December 10, 9 am-12 pm
