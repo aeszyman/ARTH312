@@ -55,7 +55,9 @@ This course examines art and architecture in Western Europe from early to late M
 * Michael Camille, "New Ways of Seeing Gothic Art," in _Gothic Art: Glorious Visions_ (Abrams, 1996): 8-25.
 ###### Week 9
 #### October 21: Gothic Cathedrals
+* TBA
 #### October 23: Urban and Domestic Spaces
+* 
 ###### Week 10
 #### October 28: Holy Roman Empire
 #### October 30: Kingship and Warfare
