@@ -64,6 +64,7 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 11
 #### November 4: Courtly Love
 #### November 6: The Black Death
+* Watch film [_Seventh Seal_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=217&recCount=25&recPointer=0&bibId=2012715).
 ###### Week 12
 #### November 11: Field Trip to Rare Book Room
 #### November 13: Legacy of the Middle Ages: Collegiate Gothic
