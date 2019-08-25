@@ -62,6 +62,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### October 28: Holy Roman Empire
 * Elina Gertsman, _Worlds Within: Opening the Medieval Shrine Madonna_ (The Pennsylvania State University Press, 2015).
 #### October 30: Kingship and Warfare
+* Meredith Cohen, _The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_ (Cambridge University Press, 2015).
 ###### Week 11
 #### November 4: Courtly Love
 #### November 6: The Black Death
