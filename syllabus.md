@@ -16,19 +16,19 @@ This course examines art and architecture in Western Europe from early to late M
 #### August 28: Europe after the Fall of Rome
 * Watch [Rome Reborn](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
 ###### Week 2
-#### September 2: Europe after the Fall of Rome
-#### September 4: Early Medieval Monasteries and Books
+#### September 2: Early Medieval Monasteries and Books
+#### September 4: Ottonian Empire
 ###### Week 3
-#### September 9: Ottonian Empire
-#### September 11: Carolingian Empire
-###### Week 4
-#### September 16: European Culture in the New Millennium
+#### September 9: Carolingian Empire
+#### September 11: European Culture in the New Millennium
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
-#### September 18: Reliquaries and the Cult of Relics
+###### Week 4
+#### September 16: Reliquaries and the Cult of Relics
+#### September 18: Pilgrimage and the Crusades
+* Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 #### Friday, September 20, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
 #### September 23: Pilgrimage and the Crusades
-* Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 #### September 25: Mapping the World and Picturing the "Other"
 * Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
 ###### Week 6
@@ -58,10 +58,11 @@ This course examines art and architecture in Western Europe from early to late M
 * _The Cathedral_ (2002): Animation. "A space fantasy about an explorer who pays a visit to an unusual cathedral built with organic materials." (IMDb) Based on short story by Jacek Dukaj.
 #### November 20: Presentations Workshop
 ###### Week 14
-#### November 25: Oral Presentations
+#### November 25: Assignment 10
 #### November 27: Thanksgiving Break
 ###### Week 15
 #### December 2: Oral Presentations
-#### December 4: Review and Conclusions
+#### December 4: Oral Presentations
+#### Friday, December 6, 5:30 pm: Review and Conclusions
 #### Final Exam
 December 10, 9 am-12 pm)
