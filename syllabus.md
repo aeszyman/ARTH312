@@ -24,15 +24,18 @@ This course examines art and architecture in Western Europe from early to late M
 * "Instructions for a Painter of Miniatures (Fourth Century)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 23-25.
 #### September 4: Carolingian Empire
 * Benjamin Anderson, "Carolingian Consensus," in _Cosmos and Community in Early Medieval Art_ (Yale University Press, 2017).
+* Assignment 1: Reading Response ("Carolingian Consensus")
 ###### Week 3
 #### September 9: Ottonian Empire
 * "The Empire: Imperial Robes and Insignia." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
 #### September 11: European Culture in the New Millennium
 * Andreas Petzold, "The Definition of Romanesque Art," in _Romanesque Art_ (Prentice Hall, 1995), 6-23.
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
+* Assignment 2: Reading Response ("The Definition of Romanesque Art")
 ###### Week 4
 #### September 16: Reliquaries and the Cult of Relics
 * "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
+* Assignment 3: Primary Source Analysis ("Theft of Relics")
 #### September 18: Pilgrimage
 * Gary Vikan, "Pilgrims and Pilgrimage," in _Early Byzantine Pilgrimage Art_, rev. ed. (Dumbarton Oaks, 2010), 2-12.
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
@@ -43,11 +46,13 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 25: Mapping the World and Picturing the "Other"
 * Asa Simon Mittman, "Are the 'monstrous races' races?" _Postmedieval: A Journal of Medieval Cultural Studies_ 6.1 (2015): 36-51.
 * Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
+* Assignment 4: Reading Response ("Are the 'monstrous races' races?")
 ###### Week 6
 #### September 30: Visualizing Conquest: Bayeux Tapestry
 * "The Norman Conquest of England." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 271-278.
 #### October 2: Female Mystics: Hildegard of Bingen
 * Watch film [_Vision_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=188&recCount=25&recPointer=1&bibId=1220282).
+* Assignment 5 (Film Analysis)
 ###### Week 7
 #### October 7: Review
 #### October 9: Midterm Exam
@@ -55,23 +60,25 @@ This course examines art and architecture in Western Europe from early to late M
 #### October 14: Fall Break
 #### October 16: "Gothic"
 * Michael Camille, "New Ways of Seeing Gothic Art," in _Gothic Art: Glorious Visions_ (Abrams, 1996): 8-25.
+* Assignment 6: Reading Response ("New Ways of Seeing Gothic Art")
 ###### Week 9
 #### October 21: Gothic Cathedrals
 * "On the Question of the Participation of the Common People in the Building of Gothic Churches." In: Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987), 23-30.
+* Assignment 7: Primary Source Analysis ("On the Question of the Participation of the Common People in the Building of Gothic Churches")
 #### October 23: Kingship and Warfare
 * Meredith Cohen, _The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_ (Cambridge University Press, 2015).
-#### Urban and Domestic Spaces
-* Keith D. Leilly, "Founding a City, Founding a World," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009).
 ###### Week 10
 #### October 28: Urban and Domestic Spaces
 * Keith D. Leilly, "Founding a City, Founding a World," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009).
 #### October 30: Holy Roman Empire
 * Elina Gertsman, _Worlds Within: Opening the Medieval Shrine Madonna_ (The Pennsylvania State University Press, 2015).
+* Assignment 8: Reading Response (_Worlds Within_)
 ###### Week 11
 #### November 4: Courtly Love
 * Michael Camille, "Love's Gifts," in _The Medieval Art of Love: Objects and Subjects of Desire_ (New York: Abrams, 1998), 50-71.
 #### November 6: The Black Death
 * Watch film [_Seventh Seal_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=217&recCount=25&recPointer=0&bibId=2012715).
+* Assignment 9 (Film Analysis)
 ###### Week 12
 #### November 11: The End of Time: The Visual Culture of the Apocalypse
 * Richard Kenneth Emmerson, _Apocalypse Illuminated: The Visual Exegesis of Revelation in Medieval Illustrated Manuscripts_ (Pennsylvania State University Press, 2018).
