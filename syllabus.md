@@ -14,17 +14,22 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 1
 #### August 26: Introductions
 #### August 28: Field Trip to Virginia Museum of Fine Arts
+###### Week 2
 #### September 2: Europe after the Fall of Rome
 #### September 4: Early Medieval Monasteries and Books
+###### Week 3
 #### September 9: Ottonian Empire
 #### September 11: Carolingian Empire
+###### Week 4
 #### September 16: European Culture in the New Millennium
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10.
 #### September 18: Reliquaries and the Cult of Relics
+###### Week 5
 #### September 23: Pilgrimage and the Crusades
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 #### September 25: Mapping the World and Picturing the "Other"
 * Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
+###### Week 6
 #### September 30: Visualizing Conquest: Bayeux Tapestry
 #### October 2: Female Mystics: Hildegard of Bingen
 #### October 7: Review
