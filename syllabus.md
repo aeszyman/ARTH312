@@ -57,7 +57,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### October 21: Gothic Cathedrals
 * TBA
 #### October 23: Urban and Domestic Spaces
-* 
+* Keith D. Leilly, "Founding a City, Founding a World," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009).
 ###### Week 10
 #### October 28: Holy Roman Empire
 #### October 30: Kingship and Warfare
