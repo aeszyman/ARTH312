@@ -65,4 +65,4 @@ This course examines art and architecture in Western Europe from early to late M
 #### December 4: Oral Presentations
 #### Friday, December 6, 5:30 pm: Review and Conclusions
 #### Final Exam
-December 10, 9 am-12 pm)
+December 10, 9 am-12 pm
