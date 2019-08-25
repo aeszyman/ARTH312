@@ -31,6 +31,7 @@ This course examines art and architecture in Western Europe from early to late M
 #### September 16: Reliquaries and the Cult of Relics
 * "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 #### September 18: Pilgrimage and the Crusades
+* Gary Vikan, "Pilgrims and Pilgrimage," in _Early Byzantine Pilgrimage Art_, rev. ed. (Dumbarton Oaks, 2010), 2-12.
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 #### Friday, September 20, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
