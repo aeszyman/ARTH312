@@ -43,6 +43,7 @@ This course examines art and architecture in Western Europe from early to late M
 * Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
 ###### Week 6
 #### September 30: Visualizing Conquest: Bayeux Tapestry
+* "The Norman Conquest of England." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 271-278.
 #### October 2: Female Mystics: Hildegard of Bingen
 ###### Week 7
 #### October 7: Review
