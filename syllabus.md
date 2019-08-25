@@ -72,7 +72,7 @@ This course examines art and architecture in Western Europe from early to late M
 * Watch film [_Seventh Seal_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=217&recCount=25&recPointer=0&bibId=2012715).
 ###### Week 12
 #### November 11: The End of Time: The Visual Culture of the Apocalypse
-*
+* Richard Kenneth Emmerson, _Apocalypse Illuminated: The Visual Exegesis of Revelation in Medieval Illustrated Manuscripts_ (Pennsylvania State University Press, 2018).
 #### November 13: Field Trip to Rare Book Room
 ###### Week 13
 #### November 18: Legacy of the Middle Ages
