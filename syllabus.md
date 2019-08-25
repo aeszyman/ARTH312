@@ -1,4 +1,4 @@
-## Medieval Art and Architecture in Western Europe
+# Medieval Art and Architecture in Western Europe
 Agnieszka E. Szymańska, PhD
 
 aszymans@richmond.edu
@@ -8,9 +8,9 @@ Visual Arts 212
 (804) 289-8768
 
 Office Hours: Wednesdays 4-6 pm or by appointment
-#### Course Description
+## Course Description
 This course examines art and architecture in Western Europe from early to late Middle Ages. It considers the changing visual experiences associated with the Early Medieval, Carolingian, Ottonian, Romanesque, and Gothic periods.
-
+## Course Materials
 #### Textbooks:
 You are not required to purchase these textbooks. They are on reserve at the library.
 * Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002).
@@ -42,7 +42,7 @@ The use of laptops is discouraged. If you absolutely need to use a laptop, you m
 | Final Exam | 20% |
 
 There will be ten one-page weekly assignments in this course. They will count towards your attendance and participation grade. Almost all of these weekly assignments are analytical summaries.
-# Grading Schema
+## Grading Schema
 | Excellent | Good | Average | Poor |
 | ------------- | ------------- | ------------- | ------------- |
 | 97-100% = A+ | 87-90% = B+ | 77-80% = C+ | 67-70% = D+ |
@@ -67,6 +67,7 @@ For each analytical summary of a film, consider the following questions:
 2. Discuss two scenes that stood out to you and explain why.
 3. How does the film portray the Middle Ages?
 ## Schedule
+(_subject to change_)
 ###### Week 1
 #### August 26: Introductions
 #### August 28: Europe after the Fall of Rome
