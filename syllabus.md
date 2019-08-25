@@ -52,6 +52,7 @@ This course examines art and architecture in Western Europe from early to late M
 ###### Week 8
 #### October 14: Fall Break
 #### October 16: "Gothic"
+* Michael Camille, "New Ways of Seeing Gothic Art," in _Gothic Art: Glorious Visions_ (Abrams, 1996): 8-25.
 ###### Week 9
 #### October 21: Gothic Cathedrals
 #### October 23: Urban and Domestic Spaces
