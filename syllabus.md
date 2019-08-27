@@ -111,7 +111,7 @@ For each analytical summary of a film, consider the following questions:
 #### October 2: Female Mystics: Hildegard of Bingen
 * Watch film [_Vision_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=188&recCount=25&recPointer=1&bibId=1220282).
 
-For viewing _Vision_ in the library, you have a few options - you can watch it individually, or watch it in small groups in the [Media Resouce Center](https://library.richmond.edu/mrc/index.html) viewing room or a library study room. You can book rooms [here](http://libcal.richmond.edu). The library has dvd players you can check out at the main service desk and hook up in any of the study rooms. Let me know if you encounter any difficulties.
+For viewing _Vision_ in the library, you have a few options - you can watch it individually, or watch it in small groups in the [Media Resource Center](https://library.richmond.edu/mrc/index.html) viewing room or a library study room. You can book rooms [here](http://libcal.richmond.edu). The library has dvd players you can check out at the main service desk and hook up in any of the study rooms. Let me know if you encounter any difficulties.
 * Assignment 5: Analytical Summary of _Vision_
 ###### Week 7
 #### October 7: Review
