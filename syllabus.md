@@ -1,4 +1,4 @@
-# Medieval Art and Architecture in Western Europe
+# Medieval Art and Architecture in Western Europe (CRN 18093)
 Agnieszka E. Szymańska, PhD
 
 aszymans@richmond.edu
