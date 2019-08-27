@@ -78,6 +78,7 @@ For each analytical summary of a film, consider the following questions:
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-61.
 #### August 28: Europe after the Fall of Rome
 * Watch [Rome Reborn](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 62-79.
 ###### Week 2
 #### September 2: Early Medieval Monasteries and Books
 * "Instructions for a Painter of Miniatures (Fourth Century)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 23-25.
