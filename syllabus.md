@@ -135,7 +135,7 @@ For each analytical summary of a film, consider the following questions:
 #### November 4: Courtly Love
 * Michael Camille, "Love's Gifts," in _The Medieval Art of Love: Objects and Subjects of Desire_ (New York: Abrams, 1998), 50-71.
 #### November 6: The Black Death
-* Watch film [_Seventh Seal_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=217&recCount=25&recPointer=0&bibId=2012715).
+* Watch film [_Seventh Seal_](https://richmond.kanopy.com/video/seventh-seal).
 * Assignment 9: Analytical Summary of _Seventh Seal_
 ###### Week 12
 #### November 11: The End of Time: The Visual Culture of the Apocalypse
