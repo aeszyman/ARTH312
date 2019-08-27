@@ -75,6 +75,7 @@ For each analytical summary of a film, consider the following questions:
 (_subject to change_)
 ###### Week 1
 #### August 26: Introductions
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-61.
 #### August 28: Europe after the Fall of Rome
 * Watch [Rome Reborn](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
 ###### Week 2
