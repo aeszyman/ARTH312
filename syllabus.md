@@ -13,6 +13,7 @@ This course examines art and architecture in Western Europe from early to late M
 ## Course Materials
 #### Textbooks:
 You are not required to purchase these textbooks. They are on reserve at the library.
+* Fred S. Kleiner, _Gardner’s Art through the Ages: The Western Perspective_, volume 1, 15th edition.
 * Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002).
 * Veronica Sekules, _Medieval Art_ (Oxford University Press, 2001).
 * Andreas Petzold, _Romanesque Art_ (New York: Abrams, 1995).
