@@ -79,13 +79,13 @@ For each analytical summary of a film, consider the following questions:
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-61.
 #### August 28: Europe after the Fall of Rome
 * Watch [Rome Reborn](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
-* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 62-115.
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 62-93 (until Luxury painting in manuscripts) and 98-115.
 ###### Week 2
 #### September 2: Early Medieval Monasteries and Books
 * "[Instructions for a Painter of Miniatures (Fourth Century)](https://github.com/aeszyman/ARTH312/blob/master/readings/instructions_for_a_painter_of_miniatures.pdf)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 23-25.
 * Watch [Making Manuscripts](https://www.khanacademy.org/humanities/medieval-world/medieval-book/making-medieval-book/v/making-manuscripts). What are the stages of manuscript making?
 * Read "[Why a Medieval Woman Had Lapis Lazuli Hidden in Her Teeth](https://www.theatlantic.com/science/archive/2019/01/the-woman-with-lapis-lazuli-in-her-teeth/579760/)."
-* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 116-171.
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 93-97 (Luxury painting in manuscripts), 128-135 (Monasteries), and 152-171.
 #### September 4: Carolingian Empire
 * Benjamin Anderson, "[Carolingian Consensus](https://github.com/aeszyman/ARTH312/blob/master/readings/anderson_carolingian_consensus.pdf)," in _Cosmos and Community in Early Medieval Art_ (Yale University Press, 2017), 71-110.
 * Assignment 1: Analytical Summary of "Carolingian Consensus"
@@ -100,6 +100,7 @@ For each analytical summary of a film, consider the following questions:
 #### September 16: Reliquaries and the Cult of Relics
 * "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 * Assignment 3: Analytical Summary of "Theft of Relics"
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 116-128 (until Monasteries) and 136-151.
 #### September 18: Pilgrimage
 * Gary Vikan, "Pilgrims and Pilgrimage," in _Early Byzantine Pilgrimage Art_, rev. ed. (Dumbarton Oaks, 2010), 2-12.
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
