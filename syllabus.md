@@ -89,6 +89,7 @@ For each analytical summary of a film, consider the following questions:
 #### September 4: Carolingian Empire
 * Benjamin Anderson, "[Carolingian Consensus](https://github.com/aeszyman/ARTH312/blob/master/readings/anderson_carolingian_consensus.pdf)," in _Cosmos and Community in Early Medieval Art_ (Yale University Press, 2017), 71-110.
 * Assignment 1: Analytical Summary of "Carolingian Consensus"
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 172-193.
 ###### Week 3
 #### September 9: Ottonian Empire
 * "The Empire: Imperial Robes and Insignia." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
