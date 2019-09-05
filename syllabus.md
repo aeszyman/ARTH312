@@ -92,7 +92,7 @@ For each analytical summary of a film, consider the following questions:
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 172-193.
 ###### Week 3
 #### September 9: Ottonian Empire
-* "The Empire: Imperial Robes and Insignia." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
+* "[The Empire: Imperial Robes and Insignia](https://github.com/aeszyman/ARTH312/blob/master/readings/imperial_robes.pdf)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
 #### September 11: European Culture in the New Millennium
 * Andreas Petzold, "The Definition of Romanesque Art," in _Romanesque Art_ (Prentice Hall, 1995), 6-23.
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10. What is this podcast about? Why do you think I have assigned it in this course?
