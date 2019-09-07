@@ -76,7 +76,7 @@ For each analytical summary of a film, consider the following questions:
 (_subject to change_)
 ###### Week 1
 #### August 26: Introductions
-* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-61.
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 16-61.
 #### August 28: Europe after the Fall of Rome
 * Watch [Rome Reborn](https://www.youtube.com/watch?v=e_phjB19ZEg). What monuments were present in Rome before its fall in 410 CE?
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 62-93 (until Luxury painting in manuscripts) and 98-115.
@@ -93,10 +93,12 @@ For each analytical summary of a film, consider the following questions:
 ###### Week 3
 #### September 9: Ottonian Empire
 * "[The Empire: Imperial Robes and Insignia](https://github.com/aeszyman/ARTH312/blob/master/readings/imperial_robes.pdf)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-15.
 #### September 11: European Culture in the New Millennium
 * Andreas Petzold, "The Definition of Romanesque Art," in _Romanesque Art_ (Prentice Hall, 1995), 6-23.
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10. What is this podcast about? Why do you think I have assigned it in this course?
 * Assignment 2: Analytical Summary of "The Definition of Romanesque Art"
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 194-244.
 ###### Week 4
 #### September 16: Reliquaries and the Cult of Relics
 * "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
