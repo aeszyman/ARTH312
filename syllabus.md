@@ -94,17 +94,19 @@ For each analytical summary of a film, consider the following questions:
 #### September 9: Ottonian Empire
 * "[The Empire: Imperial Robes and Insignia](https://github.com/aeszyman/ARTH312/blob/master/readings/imperial_robes.pdf)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-15.
-#### September 11: European Culture in the New Millennium
+#### September 11: Ottonian Empire
+* "[The Empire: Imperial Robes and Insignia](https://github.com/aeszyman/ARTH312/blob/master/readings/imperial_robes.pdf)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-15.
+###### Week 4
+#### September 16: European Culture in the New Millennium
 * Andreas Petzold, "The Definition of Romanesque Art," in _Romanesque Art_ (Prentice Hall, 1995), 6-23.
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10. What is this podcast about? Why do you think I have assigned it in this course?
 * Assignment 2: Analytical Summary of "The Definition of Romanesque Art"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 194-244.
-###### Week 4
-#### September 16: Reliquaries and the Cult of Relics
+#### September 18: The Cult of Relics and Pilgrimage
 * "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 * Assignment 3: Analytical Summary of "Theft of Relics"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 116-128 (until Monasteries) and 136-151.
-#### September 18: Pilgrimage
 * Gary Vikan, "Pilgrims and Pilgrimage," in _Early Byzantine Pilgrimage Art_, rev. ed. (Dumbarton Oaks, 2010), 2-12.
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 #### Friday, September 20, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
