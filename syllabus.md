@@ -107,11 +107,11 @@ For each analytical summary of a film, consider the following questions:
 * "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 * Assignment 3: Analytical Summary of "Theft of Relics"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 116-128 (until Monasteries) and 136-151.
-* Gary Vikan, "Pilgrims and Pilgrimage," in _Early Byzantine Pilgrimage Art_, rev. ed. (Dumbarton Oaks, 2010), 2-12.
-* Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 #### Friday, September 20, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
-#### September 23: The Crusades
+#### September 23: Pilgrimage
+* Gary Vikan, "Pilgrims and Pilgrimage," in _Early Byzantine Pilgrimage Art_, rev. ed. (Dumbarton Oaks, 2010), 2-12.
+* Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 * "The First Crusade." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 261-270.
 #### September 25: Mapping the World and Picturing the "Other"
 * Asa Simon Mittman, "Are the 'monstrous races' races?" _Postmedieval: A Journal of Medieval Cultural Studies_ 6.1 (2015): 36-51.
