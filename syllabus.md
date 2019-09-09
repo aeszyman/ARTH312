@@ -127,6 +127,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 * Assignment 5: Analytical Summary of _Vision_
 ###### Week 7
 #### October 7: Review
+* Paper 1
 #### October 9: Midterm Exam
 ###### Week 8
 #### October 14: Fall Break
