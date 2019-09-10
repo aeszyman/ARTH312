@@ -107,7 +107,7 @@ For each analytical summary of a film, consider the following questions:
 * "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 * Assignment 3: Analytical Summary of "Theft of Relics"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 116-128 (until Monasteries) and 136-151.
-#### Friday, September 20, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
+#### Thursday, September 19, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
 #### September 23: Pilgrimage
 * Gary Vikan, "Pilgrims and Pilgrimage," in _Early Byzantine Pilgrimage Art_, rev. ed. (Dumbarton Oaks, 2010), 2-12.
