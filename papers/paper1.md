@@ -9,7 +9,7 @@ To select artworks, begin by consulting the following resources:
 * [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search#!?department=17&showOnly=highlights&offset=0&pageSize=0&perPage=20&sortBy=relevance&sortOrder=asc&searchField=All)
 * [The Cloisters](https://www.metmuseum.org/art/collection/search#!?department=7&showOnly=highlights&perPage=20&offset=0&pageSize=0&sortOrder=asc&searchField=All)
 * [The Cleveland Museum of Art](http://www.clevelandart.org/)
-* [The Walters Art Museum](https://thewalters.org/)
+* [The Walters Art Museum](https://art.thewalters.org/)
 
 Schedule at least one 30-minute meeting with me to discuss your project.
 
