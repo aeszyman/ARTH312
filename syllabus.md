@@ -99,7 +99,7 @@ For each analytical summary of a film, consider the following questions:
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-15.
 ###### Week 4
 #### September 16: European Culture in the New Millennium
-* Andreas Petzold, "The Definition of Romanesque Art," in _Romanesque Art_ (Prentice Hall, 1995), 6-23.
+* Andreas Petzold, "The Definition of Romanesque Art," in _Romanesque Art_ (Prentice Hall, 1995), 6-23. [Course Reserve](https://librarycat.richmond.edu/vwebv/enterCourseReserve.do)
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10. What is this podcast about? Why do you think I have assigned it in this course?
 * Assignment 2: Analytical Summary of "The Definition of Romanesque Art"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 194-244.
