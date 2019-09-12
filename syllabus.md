@@ -104,7 +104,7 @@ For each analytical summary of a film, consider the following questions:
 * Assignment 2: Analytical Summary of "The Definition of Romanesque Art"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 194-244.
 #### September 18: The Cult of Relics
-* "Theft of Relics: The Translation of SS. Marcellinus and Peter." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
+* "[Theft of Relics: The Translation of SS. Marcellinus and Peter](https://github.com/aeszyman/ARTH312/blob/master/readings/theft_of_relics.pdf)." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 * Assignment 3: Analytical Summary of "Theft of Relics"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 116-128 (until Monasteries) and 136-151.
 #### Thursday, September 19, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
