@@ -89,7 +89,7 @@ For each analytical summary of a film, consider the following questions:
 #### September 4: Carolingian Empire
 * Benjamin Anderson, "[Carolingian Consensus](https://github.com/aeszyman/ARTH312/blob/master/readings/anderson_carolingian_consensus.pdf)," in _Cosmos and Community in Early Medieval Art_ (Yale University Press, 2017), 71-110.
 * Assignment 1: Analytical Summary of "Carolingian Consensus"
-* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 172-193.
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 172-211.
 ###### Week 3
 #### September 9: Ottonian Empire
 * "[The Empire: Imperial Robes and Insignia](https://github.com/aeszyman/ARTH312/blob/master/readings/imperial_robes.pdf)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
@@ -102,7 +102,7 @@ For each analytical summary of a film, consider the following questions:
 * Andreas Petzold, "The Definition of Romanesque Art," in _Romanesque Art_ (Prentice Hall, 1995), 6-23. [Course Reserve](https://librarycat.richmond.edu/vwebv/enterCourseReserve.do)
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10. What is this podcast about? Why do you think I have assigned it in this course?
 * Assignment 2: Analytical Summary of "The Definition of Romanesque Art"
-* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 194-244.
+* Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 212-244.
 #### September 18: The Cult of Relics
 * "[Theft of Relics: The Translation of SS. Marcellinus and Peter](https://github.com/aeszyman/ARTH312/blob/master/readings/theft_of_relics.pdf)." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 * Assignment 3: Analytical Summary of "Theft of Relics"
