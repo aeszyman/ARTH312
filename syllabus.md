@@ -103,6 +103,7 @@ For each analytical summary of a film, consider the following questions:
 * _Hidden Brain_ by Shankar Vedantam: [Facts Aren't Enough: The Psychology of False Beliefs](https://www.npr.org/player/embed/743195213/743559544). Listen from 19:55 to 29:10. What is this podcast about? Why do you think I have assigned it in this course?
 * Assignment 2: Analytical Summary of "The Definition of Romanesque Art"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 212-244.
+* Bernard of Clairvaux, _Apologia_ XII.28-30 ("On paintings and sculptures and silver and gold in monasteries"). Translated by Conrad Rudolph, _The "Things of Greater Importance": Bernard of Clairvaux's_ Apologia _and the Medieval Attitude toward Art_ (Philadelphia: University of Pennsylvania Press, 1990), 279-285.
 #### September 18: The Cult of Relics
 * "[Theft of Relics: The Translation of SS. Marcellinus and Peter](https://github.com/aeszyman/ARTH312/blob/master/readings/theft_of_relics.pdf)." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 * Assignment 3: Analytical Summary of "Theft of Relics"
