@@ -36,6 +36,8 @@ Rowe, Nina. _The Jew, the Cathedral and the Medieval City: Synagoga and Ecclesia
 
 Rudolph, Conrad. "Inventing the Exegetical Stained-Glass Window: Suger, Hugh, and a New Elite Art." _The Art Bulletin_ 43.4 (December 2011): 399-422.
 
+Rudolph, Conrad. _Pilgrimage to the End of the World: The Road to Santiago de Compostela_ (Chicago and London: The University of Chicago Press, 2004).
+
 Ruys, Juanita Feros. _Demons in the Middle Ages_. Kalamazoo, Michigan: Medieval Institute Publications, 2017.
 
 Strickland, Debra Higgs. "Edward I, Exodus, and England on the Hereford World Map." _Speculum_ 93.2 (2018): 420-469.
