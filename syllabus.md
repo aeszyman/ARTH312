@@ -114,7 +114,7 @@ For each analytical summary of a film, consider the following questions:
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
 * "[The First Crusade](https://github.com/aeszyman/ARTH312/blob/master/readings/first_crusade.pdf)." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 261-268.
 #### September 25: Mapping the World and Picturing the "Other"
-* Asa Simon Mittman, "[Are the 'monstrous races' races?[(https://github.com/aeszyman/ARTH312/blob/master/readings/monstrous_races.pdf)" _Postmedieval: A Journal of Medieval Cultural Studies_ 6.1 (2015): 36-51.
+* Asa Simon Mittman, "[Are the 'monstrous races' races?](https://github.com/aeszyman/ARTH312/blob/master/readings/monstrous_races.pdf)" _Postmedieval: A Journal of Medieval Cultural Studies_ 6.1 (2015): 36-51.
 * Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
 * Assignment 4: Analytical Summary of "Are the 'monstrous races' races?"
 ###### Week 6
