@@ -29,7 +29,7 @@ To select artworks, consult the following resources:
 
 ## Help
 * [Writing Center](https://writing.richmond.edu/)
-* Sylvan Barnet, _A Short Guide to Writing about Art_ (New York: Pearson/Longman, c2005)
+* Sylvan Barnet, _A Short Guide to Writing about Art_ (New York: Pearson/Longman, c2005).
 
 ## Grading
 An excellent paper will:
