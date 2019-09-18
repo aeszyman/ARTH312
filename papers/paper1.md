@@ -11,6 +11,7 @@ To select artworks, begin by consulting the following resources:
 * [The Cleveland Museum of Art](http://www.clevelandart.org/)
 * [The Walters Art Museum](https://art.thewalters.org/)
 * [The British Museum](https://www.britishmuseum.org/research/collection_online/search.aspx)
+* [Louvre](https://www.louvre.fr/en/moteur-de-recherche-oeuvres)
 
 Schedule at least one 30-minute meeting with me to discuss your project.
 
