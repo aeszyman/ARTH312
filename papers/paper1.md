@@ -29,6 +29,9 @@ To select artworks, consult the following resources:
 * James Robinson, _Masterpieces: Medieval Art_ (The British Museum Press, 2008).
 * Elina Gertsman, _The Middle Ages in 50 Objects_ (Cambridge University Press, 2018).
 
+## Sources
+Your bibliography must include at least 2 primary sources and 4 secondary sources.Tertiary websites and internet websites do not count, but you must cite them if you use them.
+
 ## Format for the Paper
 [Microsoft Office](https://is.richmond.edu/hardware-software/office-365/index.html)
 
@@ -44,10 +47,11 @@ Margins: 1 inch
 An excellent paper will:
 * focus on works of art or architecture that I have not shown in class;
 * have a clear and strong thesis statement;
-* will cite sources in accordance with the [Chicago Manual of Style](https://libguides.richmond.edu/citingsources/chicago);
+* include a bibliography of more than 2 primary sources and 4 secondary sources;
+* cite sources in accordance with the [Chicago Manual of Style](https://libguides.richmond.edu/citingsources/chicago);
 * be analytical, not merely descriptive;
 * be written clearly in terms of grammar, punctuation, and syntax;
-* will have no typographical errors;
+* have no typographical errors;
 * have a cohesive paragraph organization (topic sentences and effective transitions);
 * include an introduction and a concluding paragraph;
 * comply with the formatting requirements for this paper;
