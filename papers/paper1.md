@@ -19,6 +19,7 @@ To select artworks, begin by consulting the following resources:
 * _Medieval Treasures from Hildesheim_
 * _Medieval Monsters: Terrors, Aliens, Wonders_
 * _Book of Beasts: The Bestiary in the Medieval World_
+* _The World in Play: Luxury Cards 1430-1540_
 
 Schedule at least one 30-minute meeting with me to discuss your project.
 
