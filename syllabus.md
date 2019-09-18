@@ -112,7 +112,7 @@ For each analytical summary of a film, consider the following questions:
 #### September 23: Pilgrimage
 * Gary Vikan, "Pilgrims and Pilgrimage," in _Early Byzantine Pilgrimage Art_, rev. ed. (Dumbarton Oaks, 2010), 2-12. [Course Reserve](https://librarycat.richmond.edu/vwebv/enterCourseReserve.do)
 * Elizabeth Archibald, "[What tips for traveling have changed since medieval times? Surprisingly few.](https://www.washingtonpost.com/lifestyle/travel/what-tips-for-traveling-have-changed-since-medieval-times-surprisingly-few/2015/09/03/39fa7194-482d-11e5-846d-02792f854297_story.html)" _The Washington Post_. September 3, 2015.
-* "The First Crusade." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 261-268.
+* "[The First Crusade](https://github.com/aeszyman/ARTH312/blob/master/readings/first_crusade.pdf)." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 261-268.
 #### September 25: Mapping the World and Picturing the "Other"
 * Asa Simon Mittman, "Are the 'monstrous races' races?" _Postmedieval: A Journal of Medieval Cultural Studies_ 6.1 (2015): 36-51.
 * Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
