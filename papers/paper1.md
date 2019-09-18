@@ -16,6 +16,8 @@ To select artworks, begin by consulting the following resources:
 4. Exhibition Catalogs
 * _Jerusalem, 1000-1400: Every People under Heaven_
 * _Treasures of Heaven: Saints, Relics, and Devotion in Medieval Europe_
+* _Medieval Treasures from Hildesheim_
+
 Schedule at least one 30-minute meeting with me to discuss your project.
 
 # Paper 2
