@@ -20,6 +20,10 @@ To select artworks, consult the following resources:
 * _Medieval Monsters: Terrors, Aliens, Wonders_
 * _Book of Beasts: The Bestiary in the Medieval World_
 * _The World in Play: Luxury Cards 1430-1540_
+5. Other Publications
+* Sonja Marzinik, _Masterpieces: Early Medieval Art_ (The British Museum Press, 2013).
+* James Robinson, _Masterpieces: Medieval Art_ (The British Museum Press, 2008).
+* Elina Gertsman, _The Middle Ages in 50 Objects_ (Cambridge University Press, 2018).
 
 Schedule at least one 30-minute meeting with me to discuss your project.
 
