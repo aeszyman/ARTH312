@@ -44,6 +44,7 @@ Margins: 1 inch
 An excellent paper will:
 * focus on works of art or architecture that I have not shown in class;
 * have a clear and strong thesis statement;
+* will cite sources in accordance with the [Chicago Manual of Style](https://libguides.richmond.edu/citingsources/chicago);
 * be analytical, not merely descriptive;
 * be written clearly in terms of grammar, punctuation, and syntax;
 * will have no typographical errors;
