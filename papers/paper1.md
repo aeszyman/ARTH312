@@ -7,7 +7,7 @@ To select artworks, begin by consulting the following resources:
 1. Virginia Museum of Fine Arts (VMFA), Medieval Gallery (G220A)
 2. Online Collections
 * [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search#!?department=17&showOnly=highlights&offset=0&pageSize=0&perPage=20&sortBy=relevance&sortOrder=asc&searchField=All)
-* [The Cloisters](https://www.metmuseum.org/art/collection/search#!?department=7&showOnly=highlights&perPage=20&offset=0&pageSize=0&sortOrder=asc&searchField=All)
+* [The Met Cloisters](https://www.metmuseum.org/art/collection/search#!?department=7&showOnly=highlights&perPage=20&offset=0&pageSize=0&sortOrder=asc&searchField=All)
 * [The Cleveland Museum of Art](http://www.clevelandart.org/)
 * [The Walters Art Museum](https://art.thewalters.org/)
 
