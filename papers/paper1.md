@@ -17,6 +17,8 @@ To select artworks, begin by consulting the following resources:
 * _Jerusalem, 1000-1400: Every People under Heaven_
 * _Treasures of Heaven: Saints, Relics, and Devotion in Medieval Europe_
 * _Medieval Treasures from Hildesheim_
+* _Medieval Monsters: Terrors, Aliens, Wonders_
+* _Book of Beasts: The Bestiary in the Medieval World_
 
 Schedule at least one 30-minute meeting with me to discuss your project.
 
