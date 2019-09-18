@@ -3,6 +3,8 @@
 
 due on October 7 before class
 
+Upload to Box.
+
 Write a comparison of two medieval artworks that I have not presented in class. In making a comparison, do not simply make a list of similarities or of differences; make a point. Schedule at least one 30-minute meeting with me to discuss your project. 
 
 To select artworks, consult the following resources:
