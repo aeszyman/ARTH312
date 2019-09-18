@@ -14,7 +14,7 @@ To select artworks, begin by consulting the following resources:
 * [Louvre](https://www.louvre.fr/en/moteur-de-recherche-oeuvres)
 3. [The Index of Medieval Art](https://theindex.princeton.edu/)
 4. Exhibition Catalogs
-* _Jerusalem, 1000-1400: Every People under Heaven_
+* _Jerusalem 1000-1400: Every People under Heaven_
 * _Treasures of Heaven: Saints, Relics, and Devotion in Medieval Europe_
 * _Medieval Treasures from Hildesheim_
 * _Medieval Monsters: Terrors, Aliens, Wonders_
