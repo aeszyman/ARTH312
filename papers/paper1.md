@@ -29,6 +29,13 @@ To select artworks, consult the following resources:
 * James Robinson, _Masterpieces: Medieval Art_ (The British Museum Press, 2008).
 * Elina Gertsman, _The Middle Ages in 50 Objects_ (Cambridge University Press, 2018).
 
+## Format for the Paper
+[Microsoft Office](https://is.richmond.edu/hardware-software/office-365/index.html)
+
+Font: Times New Roman, 12 pt, black
+
+Margins: 1 inch
+
 ## Help
 * [Writing Center](https://writing.richmond.edu/)
 * Sylvan Barnet, _A Short Guide to Writing about Art_ (New York: Pearson/Longman, c2005).
