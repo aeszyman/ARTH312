@@ -13,6 +13,7 @@ To select artworks, begin by consulting the following resources:
 * [The British Museum](https://www.britishmuseum.org/research/collection_online/search.aspx)
 * [Louvre](https://www.louvre.fr/en/moteur-de-recherche-oeuvres)
 3. [The Index of Medieval Art](https://theindex.princeton.edu/)
+
 Schedule at least one 30-minute meeting with me to discuss your project.
 
 # Paper 2
