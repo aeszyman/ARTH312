@@ -30,7 +30,7 @@ To select artworks, consult the following resources:
 * Elina Gertsman, _The Middle Ages in 50 Objects_ (Cambridge University Press, 2018).
 
 ## Sources
-Your bibliography must include at least 2 primary sources and 4 secondary sources.Tertiary websites and internet websites do not count, but you must cite them if you use them.
+Your bibliography must include at least 2 primary sources and 4 secondary sources. Tertiary websites and internet websites do not count, but you must cite them if you use them.
 
 ## Format for the Paper
 [Microsoft Office](https://is.richmond.edu/hardware-software/office-365/index.html)
