@@ -28,6 +28,7 @@ To select artworks, consult the following resources:
 * Sonja Marzinik, _Masterpieces: Early Medieval Art_ (The British Museum Press, 2013).
 * James Robinson, _Masterpieces: Medieval Art_ (The British Museum Press, 2008).
 * Elina Gertsman, _The Middle Ages in 50 Objects_ (Cambridge University Press, 2018).
+* Deborah Deliyannis, Henrik Dey, and Paolo Squatriti, _Fifty Early Medieval Things: Materials of Culture in Late Antiquity and the Early Middle Ages_ (Ithaca: Cornell University Press, 2019).
 
 ## Sources
 Your bibliography must include at least 2 primary sources and 4 secondary sources. Tertiary websites and internet websites do not count, but you must cite them if you use them.
