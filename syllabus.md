@@ -117,6 +117,7 @@ For each analytical summary of a film, consider the following questions:
 * Asa Simon Mittman, "[Are the 'monstrous races' races?](https://github.com/aeszyman/ARTH312/blob/master/readings/monstrous_races.pdf)" _Postmedieval: A Journal of Medieval Cultural Studies_ 6.1 (2015): 36-51.
 * Evan Andrews, "[The Great Moon Hoax](http://www.history.com/news/the-great-moon-hoax-180-years-ago?linkId=16545579)."
 * Assignment 4: Analytical Summary of "Are the 'monstrous races' races?"
+* Recommended background reading: Andreas Petzold, "The Romanesque Artist and Patronage of the Arts," in _Romanesque Art_ (Prentice Hall, 1995), 24-43.
 ###### Week 6
 #### September 30: Visualizing Conquest: Bayeux Tapestry
 * "The Norman Conquest of England." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 271-278.
