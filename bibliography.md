@@ -20,6 +20,8 @@ Gertsman, Elina and Barbara H. Rosenwein. _The Middle Ages in 50 Objects_. Cambr
 
 Guérin, Sarah M. "Meaningful Spectacles: Gothic Ivories Staging the Divine." _The Art Bulletin_ 45.1 (March 2013): 53-77.
 
+Heng, Geraldine. _The Invention of Race in the European Middle Ages_ (Cambridge University Press, 2018).
+
 Jotischky, Andrew. _A Hermit's Cookbook: Monks, Food and Fasting in the Middle Ages_. A&C Black, 2011.
 
 Larrington, Carolyne. _Winter Is Coming: The Medieval World of Game of Thrones_. Tauris, 2016.
