@@ -143,7 +143,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 * Meredith Cohen, _The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_ (Cambridge University Press, 2015).
 ###### Week 10
 #### October 28: Urban and Domestic Spaces
-* Keith D. Leilly, "Founding a City, Founding a World," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009).
+* Keith D. Leilly, "Urban Mappings," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009), 15-40.
 #### October 30: Holy Roman Empire
 * Elina Gertsman, _Worlds Within: Opening the Medieval Shrine Madonna_ (The Pennsylvania State University Press, 2015).
 * Assignment 8: Analytical Summary of _Worlds Within_
