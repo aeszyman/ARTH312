@@ -120,7 +120,7 @@ For each analytical summary of a film, consider the following questions:
 * Recommended background reading: Andreas Petzold, "The Romanesque Artist and Patronage of the Arts," in _Romanesque Art_ (Prentice Hall, 1995), 24-43.
 ###### Week 6
 #### September 30: Visualizing Conquest: Bayeux Tapestry
-* "The Norman Conquest of England." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 271-278. [Course Reserve](https://librarycat.richmond.edu/vwebv/enterCourseReserve.do)
+* "The Norman Conquest of England." In: Barbara H. Rosenwein, ed. _Reading the Middle Ages: Sources from Europe, Byzantium, and the Islamic World_ (University of Toronto Press, 2018), 271-275. [Course Reserve](https://librarycat.richmond.edu/vwebv/enterCourseReserve.do)
 #### October 2: Female Mystics: Hildegard of Bingen
 * Watch film [_Vision_](https://librarycat.richmond.edu/vwebv/holdingsInfo?searchId=188&recCount=25&recPointer=1&bibId=1220282).
 
