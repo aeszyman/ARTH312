@@ -103,10 +103,12 @@ For each analytical summary of a film, consider the following questions:
 * Assignment 2: Analytical Summary of "The Definition of Romanesque Art"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 212-244.
 * Bernard of Clairvaux, _Apologia_ XII.28-30 ("On paintings and sculptures and silver and gold in monasteries"). Translated by Conrad Rudolph, _The "Things of Greater Importance": Bernard of Clairvaux's_ Apologia _and the Medieval Attitude toward Art_ (Philadelphia: University of Pennsylvania Press, 1990), 279-285.
+* Recommended background reading: Andreas Petzold, "Stone, Mosaic, Enamel, and Glass: Developing Forms of Romanesque Art" in _Romanesque Art_ (Prentice Hall, 1995), 61-66 (until "Stained glass").
 #### September 18: The Cult of Relics
 * "[Theft of Relics: The Translation of SS. Marcellinus and Peter](https://github.com/aeszyman/ARTH312/blob/master/readings/theft_of_relics.pdf)." In: Mary-Ann Stouck, ed. _Medieval Saints: A Reader_ (University of Toronto Press, 2015), 373-394.
 * Assignment 3: Analytical Summary of "Theft of Relics"
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 116-128 (until Monasteries) and 136-151.
+* Recommended background reading: Andreas Petzold, "Stone, Mosaic, Enamel, and Glass: Developing Forms of Romanesque Art" in _Romanesque Art_ (Prentice Hall, 1995), 44-61 (until "Champlevé Enamel").
 #### Thursday, September 19, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
 #### September 23: Pilgrimage
@@ -139,6 +141,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 #### October 21: Gothic Cathedrals
 * "On the Question of the Participation of the Common People in the Building of Gothic Churches." In: Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987), 23-30.
 * Assignment 7: Analytical Summary of "On the Question of the Participation of the Common People in the Building of Gothic Churches"
+* Recommended background reading: Andreas Petzold, "Stone, Mosaic, Enamel, and Glass: Developing Forms of Romanesque Art" in _Romanesque Art_ (Prentice Hall, 1995), 66-69 ("Stained glass").
 #### October 23: Kingship and Warfare
 * Meredith Cohen, _The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_ (Cambridge University Press, 2015).
 ###### Week 10
