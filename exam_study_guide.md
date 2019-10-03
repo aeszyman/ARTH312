@@ -4,7 +4,7 @@ First, identify the work of art or architecture. Then, analyze the artwork’s m
 
 Part II: Analyze Primary Sources (25 points)
 
-First, identify the work of art of architecture. Next, read carefully the provided excerpt from a source document. Write an essay in response to the provided prompt. Your essay should analyze both primary sources, that is the work of art or architecture and the source document. Draw on your knowledge of the work of art or architecture, and of the artistic and historical period in which it was created. Use also your skills of historical interpretation to analyze the source document critically.
+First, identify the work of art or architecture. Next, read carefully the provided excerpt from a source document. Write an essay in response to the provided prompt. Your essay should analyze both primary sources, that is the work of art or architecture and the source document. Draw on your knowledge of the work of art or architecture, and of the artistic and historical period in which it was created. Use also your skills of historical interpretation to analyze the source document critically.
 
 Part III: Compare Two Works of Art and/or Architecture (25 points)
 
