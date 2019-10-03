@@ -1,29 +1,29 @@
 ###### Midterm
-1. _Utrecht Psalter_, from the abbey of Saint Peter, Hautvillers, France, ca. 820. Ink on vellum. (11-1)
-2. Equestrian portrait of Charlemagne or Charles the Bald, from Metz, France, ninth century. Bronze, originally gilt. (11-13)
-3. Palatine Chapel of Charlemagne, Aachen, Germany, 805. (11-19)
-4. Schematic plan for a monastery, from Saint Gall, Switzerland, ca. 819. Red ink on parchment. (11-20)
-5. Doors with relief panels, commissioned by Bishop Bernward for Saint Michael's, Hildesheim, Germany, 1015. Bronze. (11-25)
-6. Column, Saint Michael's, Hildesheim, ca. 1015. (11-25A)
-7. Christ blessing Otto II and Theophanu, 972. Ivory. (11-28)
-8. _Gero Crucifix_, Cologne Cathedral, Cologne, Germany, ca. 970. Painted wood. (11-29)
-9. Otto III enthroned, _Gospel Book of Otto III_, from Reichenau, Germany, 1000. Tempera on vellum. (11-30)
-10. South portal of Saint-Pierre, Moissac, France, ca. 1115. (12-1)
-11. Reliquary statue of Sainte Foy, late 10th or early 11th century with later additions. Gold, silver gilt, jewels, and cameos over a wood core. (12-2)
-12. Saint-Sernin, Toulouse, France, ca. 1070. (12-5)
-13. Santo Domingo, Silos, ca. 1100. (12-8B)
-14. Cloister of Saint-Pierre, Moissac, France, ca. 1100. (12-10)
-15. Gislebertus, _Last Judgment_, west tympanum of Saint-Lazare, Autun, France, ca. 1120. Marble. (12-15)
-16. 
-17. 
-18. _Pentecost_ and _Mission of the Apostles_, tympanum of the center portal of the narthex of La Madeleine, Vézelay, France, 1120. (12-16)
-19. 
-20. 
-21. Hildegard reveals her visions, detail of a facsimile of a lost folio in the _Scivias_ by Hildegard of Bingen, from Trier or Bingen, Germany, ca. 1150. (12-25)
-22. 
-23. Head reliquary of Saint Alexander, from the abbey church, Stavelot, Belgium, 1145. Silver repoussé (partly gilt), gilt bronze, gems, pearls, and enamel. (12-28)
+1. _Utrecht Psalter_, from the abbey of Saint Peter, Hautvillers, France, ca. 820. Ink on vellum.
+2. Equestrian portrait of Charlemagne or Charles the Bald, from Metz, France, ninth century. Bronze, originally gilt.
+3. Palatine Chapel of Charlemagne, Aachen, Germany, 805.
+4. Schematic plan for a monastery, from Saint Gall, Switzerland, ca. 819. Red ink on parchment.
+5. Doors with relief panels, commissioned by Bishop Bernward for Saint Michael's, Hildesheim, Germany, 1015. Bronze.
+6. Column, Saint Michael's, Hildesheim, ca. 1015.
+7. Christ blessing Otto II and Theophanu, 972. Ivory.
+8. _Gero Crucifix_, Cologne Cathedral, Cologne, Germany, ca. 970. Painted wood.
+9. Otto III enthroned, _Gospel Book of Otto III_, from Reichenau, Germany, 1000. Tempera on vellum.
+10. South portal of Saint-Pierre, Moissac, France, ca. 1115.
+11. Reliquary statue of Sainte Foy, late 10th or early 11th century with later additions. Gold, silver gilt, jewels, and cameos over a wood core.
+12. Saint-Sernin, Toulouse, France, ca. 1070.
+13. Christ on the way to Emmaus, cloister pier relief at the abbey of Santo Domingo, Silos, 12th century.
+14. Cloister of Saint-Pierre, Moissac, France, ca. 1100.
+15. Gislebertus, _Last Judgment_, west tympanum of Saint-Lazare, Autun, France, ca. 1120. Marble.
+16. Sutton Hoo Ship Burial, 7th c.
+17. Emeterius, the tower and scriptorium of San Salvador de Tábara, colophon of the _Commentary on the Apocalypse_ by Beatus, from Tábara, Spain, 970. Tempera on parchment.
+18. _Pentecost_ and _Mission of the Apostles_, tympanum of the center portal of the narthex of La Madeleine, Vézelay, France, 1120.
+19. Saint Matthew, _Gospel Book of Archbishop Ebbo of Reims_, from the abbey of Saint Peter, Hautvillers, France, 835. Ink and tempera on vellum.
+20. Cross-inscribed page, folio of the _Lindisfarne Gospels_, from Northumbria, England, 721. Tempera on vellum.
+21. Hildegard reveals her visions, detail of a facsimile of a lost folio in the _Scivias_ by Hildegard of Bingen, from Trier or Bingen, Germany, ca. 1150.
+22. Saint Matthew, folio of the _Gospel Book of Charlemagne_, from Aachen, Germany, 800. Ink and tempera on vellum.
+23. Head reliquary of Saint Alexander, from the abbey church, Stavelot, Belgium, 1145. Silver repoussé (partly gilt), gilt bronze, gems, pearls, and enamel.
 24. [Hereford Worl Map](https://www.themappamundi.co.uk/mappa-mundi/), Hereford Cathedral Treasury, ca. 1300.
-25. Battle of Hastings, detail of the _Bayeux Tapestry_, from Bayeux Cathedral, Bayeux, France, ca. 1080. Embroidered wool on linen. (12-41)
+25. Battle of Hastings, detail of the _Bayeux Tapestry_, from Bayeux Cathedral, Bayeux, France, ca. 1080. Embroidered wool on linen.
 ###### Final
 26. Cathedral of Reims, France. ca. 1290. (13-1)
 27. Ambulatory and radiating chapels, abbey church, Saint-Denis, France, 1140. (13-2)
