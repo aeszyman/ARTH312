@@ -22,7 +22,7 @@
 21. Hildegard reveals her visions, detail of a facsimile of a lost folio in the _Scivias_ by Hildegard of Bingen, from Trier or Bingen, Germany, ca. 1150. (12-25)
 22. 
 23. Head reliquary of Saint Alexander, from the abbey church, Stavelot, Belgium, 1145. Silver repoussé (partly gilt), gilt bronze, gems, pearls, and enamel. (12-28)
-24. [Hereford Worl Map](https://www.themappamundi.co.uk/mappa-mundi/), Hereford Cathedral Treasury, ca. 1300. (13-38B)
+24. [Hereford Worl Map](https://www.themappamundi.co.uk/mappa-mundi/), Hereford Cathedral Treasury, ca. 1300.
 25. Battle of Hastings, detail of the _Bayeux Tapestry_, from Bayeux Cathedral, Bayeux, France, ca. 1080. Embroidered wool on linen. (12-41)
 ###### Final
 26. Cathedral of Reims, France. ca. 1290. (13-1)
