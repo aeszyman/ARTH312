@@ -14,15 +14,15 @@
 13. Santo Domingo, Silos, ca. 1100. (12-8B)
 14. Cloister of Saint-Pierre, Moissac, France, ca. 1100. (12-10)
 15. Gislebertus, _Last Judgment_, west tympanum of Saint-Lazare, Autun, France, ca. 1120. Marble. (12-15)
-16. Gislebertus, _Suicide of Judas_, Autun, ca. 1120. (12-15A)
-17. Gislebertus, _Eve_, Autun, ca. 1120. (12-15B)
+16. 
+17. 
 18. _Pentecost_ and _Mission of the Apostles_, tympanum of the center portal of the narthex of La Madeleine, Vézelay, France, 1120. (12-16)
-19. _Christ in Majesty_, apse, Santa María de Mur, near Lérida, Spain, mid-12th century. Fresco. (12-20)
-20. Virgin and Child, from Auvergne, France, second half of 12th century. Painted wood. (12-21)
+19. 
+20. 
 21. Hildegard reveals her visions, detail of a facsimile of a lost folio in the _Scivias_ by Hildegard of Bingen, from Trier or Bingen, Germany, ca. 1150. (12-25)
-22. Crowning of Henry and Matilda, _Gospels of Henry the Lion_, from the Benedictine abbey at Helmarshausen, Germany, 1188. Tempera on parchment. (12-26)
+22. 
 23. Head reliquary of Saint Alexander, from the abbey church, Stavelot, Belgium, 1145. Silver repoussé (partly gilt), gilt bronze, gems, pearls, and enamel. (12-28)
-24. Leaning Tower, Pisa, begun 1174. (12-29A)
+24. [Hereford Worl Map](https://www.themappamundi.co.uk/mappa-mundi/), Hereford Cathedral Treasury, ca. 1300. (13-38B)
 25. Battle of Hastings, detail of the _Bayeux Tapestry_, from Bayeux Cathedral, Bayeux, France, ca. 1080. Embroidered wool on linen. (12-41)
 ###### Final
 26. Cathedral of Reims, France. ca. 1290. (13-1)
