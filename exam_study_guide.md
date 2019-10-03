@@ -1,12 +1,12 @@
-Part I: Identify and Analyze (50 points)
+#### Part I: Identify and Analyze (50 points)
 
 First, identify the work of art or architecture. Then, analyze the artwork’s main artistic and historical significance. If possible, incorporate specific source documents into your discussion.
 
-Part II: Analyze Primary Sources (25 points)
+#### Part II: Analyze Primary Sources (25 points)
 
 First, identify the work of art or architecture. Next, read carefully the provided excerpt from a source document. Write an essay in response to the provided prompt. Your essay should analyze both primary sources, that is the work of art or architecture and the source document. Draw on your knowledge of the work of art or architecture, and of the artistic and historical period in which it was created. Use also your skills of historical interpretation to analyze the source document critically.
 
-Part III: Compare Two Works of Art and/or Architecture (25 points)
+#### Part III: Compare Two Works of Art and/or Architecture (25 points)
 
 First, identify the two works of art and/or architecture. Then, write a comparison essay in response to the provided prompt. If possible, incorporate specific source documents into your discussion.
 
