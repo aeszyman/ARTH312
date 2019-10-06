@@ -27,15 +27,15 @@ First, identify the two works of art and/or architecture. Then, write a comparis
 14. Column, Saint Michael's, Hildesheim, ca. 1015.
 15. Reliquary statue of Sainte Foy, late 10th or early 11th century with later additions. Gold, silver gilt, jewels, and cameos over a wood core.
 16. Saint-Sernin, Toulouse, France, ca. 1070.
-Battle of Hastings, detail of the _Bayeux Tapestry_, from Bayeux Cathedral, Bayeux, France, ca. 1080. Embroidered wool on linen.
-17. Cloister of Saint-Pierre, Moissac, France, ca. 1100.
-18. South portal of Saint-Pierre, Moissac, France, ca. 1115.
-19. Christ on the way to Emmaus, cloister pier relief at the abbey of Santo Domingo, Silos, 12th century.
-20. Gislebertus, _Last Judgment_, west tympanum of Saint-Lazare, Autun, France, 1120. Marble.
-21. _Pentecost_ and _Mission of the Apostles_, tympanum of the center portal of the narthex of La Madeleine, Vézelay, France, 1120.
-22. Head reliquary of Saint Alexander, from the abbey church, Stavelot, Belgium, 1145. Silver repoussé (partly gilt), gilt bronze, gems, pearls, and enamel.
-22. Hildegard reveals her visions, detail of a facsimile of a lost folio in the _Scivias_ by Hildegard of Bingen, from Trier or Bingen, Germany, ca. 1150.
-23. [Hereford Worl Map](https://www.themappamundi.co.uk/mappa-mundi/), Hereford Cathedral Treasury, ca. 1300.
+17. Battle of Hastings, detail of the _Bayeux Tapestry_, from Bayeux Cathedral, Bayeux, France, ca. 1080. Embroidered wool on linen.
+18. Cloister of Saint-Pierre, Moissac, France, ca. 1100.
+19. South portal of Saint-Pierre, Moissac, France, ca. 1115.
+20. Christ on the way to Emmaus, cloister pier relief at the abbey of Santo Domingo, Silos, 12th century.
+21. Gislebertus, _Last Judgment_, west tympanum of Saint-Lazare, Autun, France, 1120. Marble.
+22. _Pentecost_ and _Mission of the Apostles_, tympanum of the center portal of the narthex of La Madeleine, Vézelay, France, 1120.
+23. Head reliquary of Saint Alexander, from the abbey church, Stavelot, Belgium, 1145. Silver repoussé (partly gilt), gilt bronze, gems, pearls, and enamel.
+24. Hildegard reveals her visions, detail of a facsimile of a lost folio in the _Scivias_ by Hildegard of Bingen, from Trier or Bingen, Germany, ca. 1150.
+25. [Hereford Worl Map](https://www.themappamundi.co.uk/mappa-mundi/), Hereford Cathedral Treasury, ca. 1300.
 
 ###### Final
 26. Cathedral of Reims, France. ca. 1290. (13-1)
