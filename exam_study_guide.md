@@ -35,7 +35,7 @@ First, identify the two works of art and/or architecture. Then, write a comparis
 22. _Pentecost_ and _Mission of the Apostles_, tympanum of the center portal of the narthex of La Madeleine, Vézelay, France, 1120.
 23. Head reliquary of Saint Alexander, from the abbey church, Stavelot, Belgium, 1145. Silver repoussé (partly gilt), gilt bronze, gems, pearls, and enamel.
 24. Hildegard reveals her visions, detail of a facsimile of a lost folio in the _Scivias_ by Hildegard of Bingen, from Trier or Bingen, Germany, ca. 1150.
-25. [Hereford Worl Map](https://www.themappamundi.co.uk/mappa-mundi/), Hereford Cathedral Treasury, ca. 1300.
+25. [Hereford World Map](https://www.themappamundi.co.uk/mappa-mundi/), Hereford Cathedral Treasury, ca. 1300.
 
 ###### Final
 26. Cathedral of Reims, France. ca. 1290. (13-1)
