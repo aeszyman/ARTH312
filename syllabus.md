@@ -94,7 +94,7 @@ For each analytical summary of a film, consider the following questions:
 #### September 9: Ottonian Empire
 * "[The Empire: Imperial Robes and Insignia](https://github.com/aeszyman/ARTH312/blob/master/readings/imperial_robes.pdf)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-15.
-#### September 11: Ottonian Empire
+#### September 11: Hildesheim: Center of Medieval Art
 * "[The Empire: Imperial Robes and Insignia](https://github.com/aeszyman/ARTH312/blob/master/readings/imperial_robes.pdf)." In: Caecilia Davis-Weyer, _Early Medieval Art, 300-1150: Sources and Documents_ (University of Toronto Press, 1986), 114-116.
 * Recommended background reading: Lawrence Nees, _Early Medieval Art_ (Oxford University Press, 2002), 8-15.
 ###### Week 4
