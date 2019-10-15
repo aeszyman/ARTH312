@@ -135,7 +135,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 ###### Week 8
 #### October 14: Fall Break
 #### October 16: "Gothic"
-* Michael Camille, "New Ways of Seeing Gothic Art," in _Gothic Art: Glorious Visions_ (Abrams, 1996): 8-25.
+* Michael Camille, "New Ways of Seeing Gothic Art," in _Gothic Art: Glorious Visions_ (Abrams, 1996): 8-25. Boatwright Reserves - Main Service Desk
 * Assignment 6: Analytical Summary of "New Ways of Seeing Gothic Art"
 ###### Week 9
 #### October 21: Gothic Cathedrals
