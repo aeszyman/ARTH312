@@ -140,7 +140,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 ###### Week 9
 #### October 21: Gothic Cathedrals
 * "On the Question of the Participation of the Common People in the Building of Gothic Churches." In: Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987), 23-30.
-* Assignment 7: Analytical Summary of "On the Question of the Participation of the Common People in the Building of Gothic Churches"
+* Assignment 7: Analytical Summary of "[On the Question of the Participation of the Common People in the Building of Gothic Churches](https://github.com/aeszyman/ARTH312/blob/master/readings/on_the_question_of_participation.pdf)"
 * Recommended background reading: Andreas Petzold, "Stone, Mosaic, Enamel, and Glass: Developing Forms of Romanesque Art" in _Romanesque Art_ (Prentice Hall, 1995), 66-69 ("Stained glass").
 #### October 23: Kingship and Warfare
 * Meredith Cohen, _The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_ (Cambridge University Press, 2015).
