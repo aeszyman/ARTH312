@@ -143,7 +143,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 * Assignment 7: Analytical Summary of "On the Question of the Participation of the Common People in the Building of Gothic Churches"
 * Recommended background reading: Andreas Petzold, "Stone, Mosaic, Enamel, and Glass: Developing Forms of Romanesque Art" in _Romanesque Art_ (Prentice Hall, 1995), 66-69 ("Stained glass").
 #### October 23: Kingship and Warfare
-* Meredith Cohen, _The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_ (Cambridge University Press, 2015).
+* Meredith Cohen, ][_The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_](https://github.com/aeszyman/ARTH312/blob/master/readings/sainte-chapelle.pdf) (Cambridge University Press, 2015).
 ###### Week 10
 #### October 28: Urban and Domestic Spaces
 * Keith D. Leilly, "Urban Mappings," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009), 15-40.
