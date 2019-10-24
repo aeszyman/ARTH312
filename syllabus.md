@@ -142,31 +142,32 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 * "[On the Question of the Participation of the Common People in the Building of Gothic Churches](https://github.com/aeszyman/ARTH312/blob/master/readings/on_the_question_of_participation.pdf)." In: Teresa Grace Frisch, _Gothic Art 1140-c. 1450: Sources and Documents_ (University of Toronto Press, 1987), 23-30.
 * Assignment 7: Analytical Summary of "On the Question of the Participation of the Common People in the Building of Gothic Churches"
 * Recommended background reading: Andreas Petzold, "Stone, Mosaic, Enamel, and Glass: Developing Forms of Romanesque Art" in _Romanesque Art_ (Prentice Hall, 1995), 66-69 ("Stained glass").
-#### October 23: Kingship and Warfare
+#### October 23: Gothic Cathedrals
 * [A Cotroversial Restoration that Wipes Away the Past](https://www.nytimes.com/2017/09/01/arts/design/chartres-cathedral-restoration-controversial.html). Read the article and prepare to discuss it in class. What is the controversy? What are some of the conflicting opinions? How would you approach the problem?
 * Optional: Meredith Cohen, [_The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_](https://github.com/aeszyman/ARTH312/blob/master/readings/sainte-chapelle.pdf) (Cambridge University Press, 2015).
 ###### Week 10
-#### October 28: Urban and Domestic Spaces
+#### October 28: Medieval Learning
+* St. Thomas Aquinas, _On the Proofs of God's Existence_. We will discuss this text in class, so please read it carefully and bring a copy with your notes to class.
+#### October 30: Urban and Domestic Spaces
 * Keith D. Leilly, "Urban Mappings," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009), 15-40.
-#### October 30: Holy Roman Empire
+###### Week 11
+#### November 4: Holy Roman Empire
 * Elina Gertsman, _Worlds Within: Opening the Medieval Shrine Madonna_ (The Pennsylvania State University Press, 2015).
 * Assignment 8: Analytical Summary of _Worlds Within_
-###### Week 11
-#### November 4: Courtly Love
+#### November 6: Courtly Love
 * Michael Camille, "Love's Gifts," in _The Medieval Art of Love: Objects and Subjects of Desire_ (New York: Abrams, 1998), 50-71.
-#### November 6: The Black Death
+###### Week 12
+#### November 11: The Black Death
 * Watch film [_Seventh Seal_](https://richmond.kanopy.com/video/seventh-seal).
 * Assignment 9: Analytical Summary of _Seventh Seal_
-###### Week 12
-#### November 11: The End of Time: The Visual Culture of the Apocalypse
+#### November 13: The End of Time: The Visual Culture of the Apocalypse
 * Richard Kenneth Emmerson, _Apocalypse Illuminated: The Visual Exegesis of Revelation in Medieval Illustrated Manuscripts_ (Pennsylvania State University Press, 2018).
-#### November 13: Field Trip to Rare Book Room
 ###### Week 13
 #### November 18: Field Trip to Rare Book Room
-#### November 20: Legacy of the Middle Ages: Collegiate Gothic
-* Jennifer Schuessler, ["Medieval Scholars Joust with White Nationalists. And One Another."](https://www.nytimes.com/2019/05/05/arts/the-battle-for-medieval-studies-white-supremacy.html) _The New York Times_, May 5, 2019.
+#### November 20: Field Trip to Rare Book Room
 ###### Week 14
-#### November 25: Assignment 10: TBA
+#### November 25: Legacy of the Middle Ages: Collegiate Gothic
+* Jennifer Schuessler, ["Medieval Scholars Joust with White Nationalists. And One Another."](https://www.nytimes.com/2019/05/05/arts/the-battle-for-medieval-studies-white-supremacy.html) _The New York Times_, May 5, 2019.
 #### November 27: Thanksgiving Break
 ###### Week 15
 #### December 2: Oral Presentations
