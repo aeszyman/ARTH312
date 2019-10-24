@@ -147,7 +147,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 * Optional: Meredith Cohen, [_The Sainte-Chapelle and the Construction of Sacral Monarchy: Royal Architecture in Thirteenth-Century Paris_](https://github.com/aeszyman/ARTH312/blob/master/readings/sainte-chapelle.pdf) (Cambridge University Press, 2015).
 ###### Week 10
 #### October 28: Medieval Learning
-* St. Thomas Aquinas, _On the Proofs of God's Existence_. We will discuss this text in class, so please read it carefully and bring a copy with your notes to class.
+* St. Thomas Aquinas, [_On the Proofs of God's Existence_](https://github.com/aeszyman/ARTH312/blob/master/readings/aquinas.pdf). We will discuss this text in class, so please read it carefully and bring a copy with your notes to class.
 #### October 30: Urban and Domestic Spaces
 * Keith D. Leilly, "Urban Mappings," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009), 15-40.
 ###### Week 11
