@@ -149,7 +149,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 #### October 28: Medieval Learning
 * St. Thomas Aquinas, [_On the Proofs of God's Existence_](https://github.com/aeszyman/ARTH312/blob/master/readings/aquinas.pdf). We will discuss this text in class, so please read it carefully and bring a copy with your notes to class.
 #### October 30: Urban and Domestic Spaces
-* Keith D. Leilly, "Urban Mappings," in _City and Cosmos: The Medieval World in Urban Form_ (Reaktion Books, 2009), 15-40.
+* Keith D. Leilly, "Urban Mappings," in [_City and Cosmos: The Medieval World in Urban Form_](https://github.com/aeszyman/ARTH312/blob/master/readings/city_and_cosmos.pdf) (Reaktion Books, 2009), 15-40.
 ###### Week 11
 #### November 4: Holy Roman Empire
 * Elina Gertsman, _Worlds Within: Opening the Medieval Shrine Madonna_ (The Pennsylvania State University Press, 2015).
