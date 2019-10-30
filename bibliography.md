@@ -6,6 +6,8 @@ Bindman, David, Henry Louis Gates, Jr., and Karen C.C. Dalton. _The Image of the
 
 Boynton, Susan and Diane J. Reilly, eds. _Resounding Images: Medieval Intersections of Art, Music, and Sound_. Brepols, 2015.
 
+Brown, Katharine Reynolds, Dafydd Kidd, and Charles T. Little. _From Attila to Charlemagne: Arts of the Early Medieval Period in the Metropolitan Museum of Art_. The Metropolitan Museum of Art, 2000.
+
 Brown, Peter Scott. "The Chrismon and the Liturgy of Dedication in Romanesque Sculpture." _Gesta_ 56.2 (Fall 2017): 199-223.
 
 Daniel E. Bornstein, ed. _Medieval Christianity_. Minneapolis, MN: Fortress Press, c2009. UR
