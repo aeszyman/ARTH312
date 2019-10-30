@@ -1,3 +1,5 @@
+Archibald, Elizabeth. _Ask the Past: Pertinent and Impertinent Advice from Yesteryear_. Hach
+
 Anderson, Benjamin. _Cosmos and Community in Early Medieval Art_. Yale University Press, 2017. Electronic Book
 
 Berzock, Kathleen Bickford. _Caravans of Gold, Fragments in Time: Art, Culture, and Exchange Across Medieval Saharan Africa_. Princeton University Press, 2019.
