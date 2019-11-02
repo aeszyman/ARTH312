@@ -174,3 +174,4 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 #### December 4: Oral Presentations
 #### Friday, December 6, 5:30 pm: Review and Conclusions
 ###### Final Exam: December 10, 9 am-12 pm
+#### December 15: Final Paper Due
