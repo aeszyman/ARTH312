@@ -156,15 +156,18 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 * Assignment 8: Analytical Summary of "Image as Word"
 #### November 6: Courtly Love
 * Michael Camille, "Love's Gifts," in _The Medieval Art of Love: Objects and Subjects of Desire_ (New York: Abrams, 1998), 50-71.
+#### November 10: Paper 2 Bibliography
 ###### Week 12
 #### November 11: The Black Death
 * Watch film [_Seventh Seal_](https://richmond.kanopy.com/video/seventh-seal).
 * Assignment 9: Analytical Summary of _Seventh Seal_
 #### November 13: The End of Time: The Visual Culture of the Apocalypse
 * Richard Kenneth Emmerson, _Apocalypse Illuminated: The Visual Exegesis of Revelation in Medieval Illustrated Manuscripts_ (Pennsylvania State University Press, 2018).
+#### November 17: Paper 2 Research Question
 ###### Week 13
 #### November 18: Field Trip to Rare Book Room
 #### November 20: Field Trip to Rare Book Room
+#### November 24: Paper 2 Outline
 ###### Week 14
 #### November 25: Legacy of the Middle Ages: Collegiate Gothic
 * Jennifer Schuessler, ["Medieval Scholars Joust with White Nationalists. And One Another."](https://www.nytimes.com/2019/05/05/arts/the-battle-for-medieval-studies-white-supremacy.html) _The New York Times_, May 5, 2019.
@@ -174,4 +177,4 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 #### December 4: Oral Presentations
 #### Friday, December 6, 5:30 pm: Review and Conclusions
 ###### Final Exam: December 10, 9 am-12 pm
-#### December 15: Final Paper Due
+#### December 15: Final Paper
