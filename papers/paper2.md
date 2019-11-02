@@ -11,7 +11,7 @@ Upload to Box.
 | Outline | November 24 |
 | Final Paper | December 15 |
 
-Use Paper 1 as the foundation for Paper 2. Use my feedback to revise Paper 1. You may decide to modify the focus of your paper, though I discourage you from changing the topic entirely without consulting me. Although your paper should focus on two artworks, you can incorporate other artworks to strengthen your analysis and bolster your overarching argument. Your paper must have a thesis statement. Consider the following questions to formulate a research question that will help you develop a thesis statement.
+Use Paper 1 as the foundation for Paper 2. Use my feedback to revise Paper 1. You may decide to modify the focus of your paper, though I discourage you from changing the topic entirely without consulting me. Although your paper should focus on two artworks, you can incorporate other artworks to strengthen your analysis and bolster your overarching argument. Consider a theme that connects the artworks (e.g. the cult of relics if you are writing about reliquaries). Your paper must have a thesis statement. Consider the following questions to formulate a research question that will help you develop a thesis statement.
 * When, where, and why was the work made? By whom, and for whom?
 * What did the work originally look like?
 * Where would the work originally have been seen?
