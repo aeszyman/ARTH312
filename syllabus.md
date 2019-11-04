@@ -155,7 +155,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 * Elina Gertsman, "[Image as Word: Visual Openings, Ocular Readings](https://github.com/aeszyman/ARTH312/blob/master/readings/gertsman_image_as_word.pdf)," _Studies in Iconography_ 32 (2011): 51-80.
 * Assignment 8: Analytical Summary of "Image as Word"
 #### November 6: Courtly Love
-* Michael Camille, "Love's Gifts," in _The Medieval Art of Love: Objects and Subjects of Desire_ (New York: Abrams, 1998), 50-71.
+* Michael Camille, "[Love's Gifts](https://github.com/aeszyman/ARTH312/blob/master/readings/medieval_art_of_love.pdf)," in _The Medieval Art of Love: Objects and Subjects of Desire_ (New York: Abrams, 1998), 50-71.
 #### November 10: Paper 2 Bibliography
 ###### Week 12
 #### November 11: The Black Death
