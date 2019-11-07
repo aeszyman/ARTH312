@@ -162,7 +162,7 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 * Watch film [_Seventh Seal_](https://richmond.kanopy.com/video/seventh-seal).
 * Assignment 9: Analytical Summary of _Seventh Seal_
 #### November 13: The End of Time: The Visual Culture of the Apocalypse
-* Richard Kenneth Emmerson, "On the Threshold of the Last Days: Negotiating Image and Word in the Apocalypse of Jean de Berry," in _Exploring the Threshold of Medieval Visual Culture_, ed. Elina Gertsman and Jill Stevenson, 11-43 (Boydell and Brewer, 2012).
+* Richard Kenneth Emmerson, "[On the Threshold of the Last Days: Negotiating Image and Word in the Apocalypse of Jean de Berry](https://github.com/aeszyman/ARTH312/blob/master/readings/on_the_threshold_of_the_last_days.pdf)," in _Exploring the Threshold of Medieval Visual Culture_, ed. Elina Gertsman and Jill Stevenson, 11-43 (Boydell and Brewer, 2012).
 #### November 17: Paper 2 Research Question
 ###### Week 13
 #### November 18: Field Trip to Rare Book Room
