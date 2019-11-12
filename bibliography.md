@@ -1,4 +1,4 @@
-Archibald, Elizabeth. _Ask the Past: Pertinent and Impertinent Advice from Yesteryear_. Hachette, 2015.
+Archibald, Elizabeth P. _Ask the Past: Pertinent and Impertinent Advice from Yesteryear_. Hachette, 2015.
 
 * "Based on the popular blog, _Ask the Past_ is full of the wisdom of the ages - as well as the fad diets, zany pickup lines, and bacon Band-Aids of the ages. Drawn from centuries of antique texts by historian and bibliophile Elizabeth P. Archibald, _Ask the Past_ offers a delightful array of advice both wise and weird."
 
@@ -25,6 +25,8 @@ Feltman, Jennifer M. "Imagining the sorrows of death and pains of hell in the _H
 Gertsman, Elina and Barbara H. Rosenwein. _The Middle Ages in 50 Objects_. Cambridge University Press, 2018.
 
 Guérin, Sarah M. "Meaningful Spectacles: Gothic Ivories Staging the Divine." _The Art Bulletin_ 45.1 (March 2013): 53-77.
+
+Harris, Max. _Sacred Folly: A New History of the Feast of Fools_. Cornell University Press, 2011.
 
 Heng, Geraldine. _The Invention of Race in the European Middle Ages_ (Cambridge University Press, 2018).
 
