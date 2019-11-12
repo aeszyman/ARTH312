@@ -24,6 +24,8 @@ Feltman, Jennifer M. "Imagining the sorrows of death and pains of hell in the _H
 
 Gertsman, Elina and Barbara H. Rosenwein. _The Middle Ages in 50 Objects_. Cambridge University Press, 2018.
 
+Gertsman, Elina. _The Dance of Death in the Middle Ages: Image, Text, Performance_. Brepols, 2010.
+
 Guérin, Sarah M. "Meaningful Spectacles: Gothic Ivories Staging the Divine." _The Art Bulletin_ 45.1 (March 2013): 53-77.
 
 Harris, Max. _Sacred Folly: A New History of the Feast of Fools_. Cornell University Press, 2011.
