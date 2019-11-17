@@ -169,12 +169,10 @@ For viewing _Vision_ in the library, you have a few options - you can watch it i
 #### November 20: Field Trip to Rare Book Room
 #### November 24: Paper 2 Outline
 ###### Week 14
-#### November 25: Legacy of the Middle Ages: Collegiate Gothic
-* Jennifer Schuessler, ["Medieval Scholars Joust with White Nationalists. And One Another."](https://www.nytimes.com/2019/05/05/arts/the-battle-for-medieval-studies-white-supremacy.html) _The New York Times_, May 5, 2019.
+#### November 25: Oral Presentations
 #### November 27: Thanksgiving Break
 ###### Week 15
 #### December 2: Oral Presentations
-#### December 4: Oral Presentations
-#### Friday, December 6, 5:30 pm: Review and Conclusions
+#### December 4: Review
 ###### Final Exam: December 10, 9 am-12 pm
 #### December 15: Final Paper
