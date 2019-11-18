@@ -40,7 +40,7 @@ First, identify the two works of art and/or architecture. Then, write a comparis
 ###### Final
 26. Cathedral of Reims, France. 13th century.
 27. Ambulatory and radiating chapels, abbey church, Saint-Denis, France, 1140.
-28. Royal Portal, west facade, Chartres Cathedral, Chartres, France, ca. 1145.
+28. Royal Portal, west facade, Cathedral of Chartres, France, 1145.
 29. Cathedral of Chartres, France, rebuilt after 1194.
 30. Rose window and lancets, north transept, Cathedral of Chartres, France, ca. 1220. Stained glass.
 31. Sainte-Chapelle, Paris, France, 1245.
