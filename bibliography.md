@@ -38,6 +38,8 @@ Jotischky, Andrew. _A Hermit's Cookbook: Monks, Food and Fasting in the Middle A
 
 Larrington, Carolyne. _Winter Is Coming: The Medieval World of Game of Thrones_. Tauris, 2016.
 
+Lindquist, Sherry C. M. and Asa Simon Mittman. _Medieval Monsters: Terrors, Aliens, Wonders_. The Morgan Library & Museum, 2018.
+
 Mandziuk, Natalie M. "Drawn to scale: The medieval monastic's virtual pilgrimage through sacred measurement." Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 73-92. London and New York: Routledge, 2017. ILL
 
 Marzinik, Sonja. _Masterpieces: Early Medieval Art_. The British Museum Press.
