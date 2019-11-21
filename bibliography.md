@@ -54,6 +54,8 @@ Ruys, Juanita Feros. _Demons in the Middle Ages_. Kalamazoo, Michigan: Medieval 
 
 Strickland, Debra Higgs. "Edward I, Exodus, and England on the Hereford World Map." _Speculum_ 93.2 (2018): 420-469.
 
+Truitt, E. R. _Medieval Robots: Mechanism, Magic, Nature, and Art_. University of Pennsylvania Press, 2015.
+
 Utz, Richard J. _Medievalism: A Manifesto_. Kalamazoo, ARC Humanities Press, 2017.
 
 Ziolkowski, Jan M. _The Juggler of Notre Dame and the Medievalizing of Modernity_. Open Book Publishers, 2018.
