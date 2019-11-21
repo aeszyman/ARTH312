@@ -4,6 +4,8 @@ Archibald, Elizabeth P. _Ask the Past: Pertinent and Impertinent Advice from Yes
 
 Anderson, Benjamin. _Cosmos and Community in Early Medieval Art_. Yale University Press, 2017. Electronic Book
 
+Barnet, Peter, Michael Brandt, and Gerhard Lutz. _Medieval Treasures from Hildesheim_ The Metropolitan Museum of Art, 2013.
+
 Berzock, Kathleen Bickford. _Caravans of Gold, Fragments in Time: Art, Culture, and Exchange Across Medieval Saharan Africa_. Princeton University Press, 2019.
 
 Bindman, David, Henry Louis Gates, Jr., and Karen C.C. Dalton. _The Image of the Black in Western Art_. Cambridge, Mass.: Belknap Press of Harvard University Press: In collaboration with the W.E.B. Du Bois Institute for African and African American Research; Houston, Tex.: Menil Collection, 2010-.
