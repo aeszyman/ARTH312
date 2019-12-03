@@ -46,6 +46,8 @@ Marzinik, Sonja. _Masterpieces: Early Medieval Art_. The British Museum Press.
 
 Matthews, David. _Medievalism: A Critical History_. Cambridge: D.S. Brewer, 2017.
 
+Mittman, Asa Simon. _Maps and Monsters in Medieval England_. Routledge, 2006.
+
 Olson, Vibeke. "Blood, sweat, tears, and milk: "Fluid" veneration, sensory contact, and corporeal presence in medieval devotional art." In _Binding the Absent Body in Medieval and Modern Art_. Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 11-31. London and New York: Routledge, 2017. ILL
 
 Rowe, Nina. _The Jew, the Cathedral and the Medieval City: Synagoga and Ecclesia in the Thirteenth Century_. Cambridge; New York: Cambridge University Press, 2011.
