@@ -39,27 +39,27 @@ First, identify the two works of art and/or architecture. Then, write a comparis
 
 ###### Final
 26. Cathedral of Reims, France. 13th century.
-27. Ambulatory and radiating chapels, abbey church, Saint-Denis, France, 1140.
-28. Royal Portal, west facade, Cathedral of Chartres, France, 1145.
+27. Ambulatory and radiating chapels, abbey church, Saint-Denis, France, 1140s.
+28. Royal Portal, west facade, Cathedral of Chartres, France, mid-12th century.
 29. Cathedral of Chartres, France, rebuilt after 1194.
 30. Rose window and lancets, north transept, Cathedral of Chartres, France, ca. 1220. Stained glass.
-31. Sainte-Chapelle, Paris, France, 1245.
+31. Sainte-Chapelle, Paris, France, mid-13th century.
 32. Carcassonne, France. Bastions and towers, 12th-13th centuries, restored by Eugène Viollet-le-Duc in the 19th century.
-33. House of Jacques Coeur, Bourges, France, 1450.
-34. _God as Creator of the World_, folio of a moralized Bible, from Paris, France, ca. 1220. Ink, tempera, and gold leaf on vellum.
-35. Pucelle, _Hours of Jeanne d'Evreux_, ca. 1325.
-36. Blanche of Castile, Louis IX, and two monks, dedication page (folio 8 recto) of a moralized Bible, from Paris, France, 1226-1234. Ink, tempera, and gold leaf on vellum, 1’ 3” x 10 1/2”. Pierpont Morgan Library, New York.
-37. _Castle of Love_, lid of a jewerly box, from Paris, France, ca. 1350. Ivory and iron.
-38. Circle of Simone Martini (fl. 1315-47) and Lippo Memmi (c. 1317-47), _The Glorification of Saint Thomas Aquinas_, ca. 1340-45. Tempera on panel.
-39. _Klosterneuburg Altar_, refashioned after 1330.
+33. House of Jacques Coeur, Bourges, France, mid-15th century.
+34. _God as Creator of the World_, folio of a moralized Bible, from Paris, France, 1220s. Ink, tempera, and gold leaf on vellum.
+35. Jean Pucelle, _Hours of Jeanne d'Evreux_, 1320s. Ink and tempera on vellum.
+36. Blanche of Castile, Louis IX, monk, and scribe, dedication page of a moralized Bible, from Paris, France, 1220s-1230s. Ink, tempera, and gold leaf on vellum.
+37. _Castle of Love_, lid of a jewerly box, from Paris, France, mid-14th century. Ivory and iron.
+38. Circle of Simone Martini (fl. 1315-47) and Lippo Memmi (c. 1317-47), _The Glorification of Saint Thomas Aquinas_, 1340s. Tempera on panel.
+39. Nicholas of Verdun, _Klosterneuburg Altar_, refashioned after 1330. Gilded copper and enamel in wooden frames.
 40. Nicholas of Verdun, _Shrine of the Three Kings_, begun ca. 1190. Silver, bronze, enamel, and gemstones. Cologne Cathedral.
-41. Naumburg Master, _Crucifixion_, west choir screen of Naumburg Cathedral, Naumburg, Germany, ca. 1255. Painted limestone.
+41. Naumburg Master, _Crucifixion_, west choir screen of Naumburg Cathedral, Naumburg, Germany, mid-13th century. Painted limestone.
 42. _Röttgen Pietà_, from the Rhineland, Germany, ca. 1300. Painted wood.
-43. Trinity College Apocalypse, ca. 1255. Illumination on parchment.
+43. _Angel shows John the New Jerusalem_. Trinity Apocalypse, mid-13th century. Illumination on parchment.
 44. Shrine of the Virgin, ca. 1300, German. Oak, linen covering, polychromy, gilding, gesso.
-45. Naumburg Master, Ekkehard and Uta, statues in the west choir, Naumburg Cathedral, Naumburg, Germany, ca. 1249-1255. Painted limestone, Ekkehard 6’ 2” high.
-46. Konrad von Altstetten as hunter and hunted, from the Manesse Codex, Zürich, ca. 1300. Heidelberg, Universitätsbibliothek, Cod. Pal. Germ. 848, fol. 249v.
-47. Unicorn Tapestries, 1495-1505, South Netherlandish.
+45. Naumburg Master, Ekkehard and Uta, statues in the west choir, Naumburg Cathedral, Naumburg, Germany, mid-13th century. Painted limestone.
+46. Konrad von Altstetten as hunter and hunted, from the Manesse Codex, Zürich, ca. 1300.
+47. Unicorn Tapestries, ca. 1500, South Netherlandish.
 48. The 1425 Dance of Death from the Cemetery of the Holy Innocents, Paris, as preserved in Guyot Marchant’s woodcut edition of 1490.
-49. Jean le Noir, _The Three Living_ and _The Three Dead_, from the Psalter and Book of Hours of Bonne of Luxembourg, before 1349. Grisaille, color, gilt and  brown ink on vellum. (Camille 115)
-50. The remnants of the _transi_ tomb of Cardinal Jean de La Grange, ca. 1402, formerly in the church of St Martial, Avignon, now in the Musée du Petit Palais, Avignon.
+49. Jean le Noir, _The Three Living_ and _The Three Dead_, from the Psalter and Book of Hours of Bonne of Luxembourg, before 1349. Grisaille, color, gilt and  brown ink on vellum.
+50. The remnants of the _transi_ tomb of Cardinal Jean de La Grange, ca. 1402.
