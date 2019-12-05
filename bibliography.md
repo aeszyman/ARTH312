@@ -38,6 +38,8 @@ Heng, Geraldine. _The Invention of Race in the European Middle Ages_ (Cambridge 
 
 Holt, Elizabeth Gilmore. _A Documentary History of Art: The Middle Ages and the Renaissance_. Princeton University Press, 1981.
 
+Husband, Timothy B. _The World in Play: Luxury Cards 1430-1540_. The Metropolitan Museum of Art, 2015.
+
 Jotischky, Andrew. _A Hermit's Cookbook: Monks, Food and Fasting in the Middle Ages_. A&C Black, 2011.
 
 Larrington, Carolyne. _Winter Is Coming: The Medieval World of Game of Thrones_. Tauris, 2016.
