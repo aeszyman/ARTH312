@@ -16,11 +16,13 @@ Brown, Katharine Reynolds, Dafydd Kidd, and Charles T. Little. _From Attila to C
 
 Brown, Peter Scott. "The Chrismon and the Liturgy of Dedication in Romanesque Sculpture." _Gesta_ 56.2 (Fall 2017): 199-223.
 
-Daniel E. Bornstein, ed. _Medieval Christianity_. Minneapolis, MN: Fortress Press, c2009. UR
+Bornstein, Daniel E. ed. _Medieval Christianity_. Minneapolis, MN: Fortress Press, c2009. UR
 
 Ciresi, Lisa Victoria. "_Maria Ecclesia_: The Aachen Marienschrein as an alternate body for the Virgin Mary." In _Binding the Absent Body in Medieval and Modern Art_. Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 51-72. London and New York: Routledge, 2017. ILL
 
 Deliyannis, Deborah, Hendrik Dey, and Paolo Squatriti. _Fifty Early Medieval Things: Materials of Culture in Late Antiquity and the Early Middle Ages_. Ithaca: Cornell University Press, 2019. Electronic Book
+
+Emmerson, Richard K. _Apocalypse Illuminated: The Visual Exegesis of Revelation in Medieval Illustrtated Manuscripts_. The Pennsylvania State University Press, 2018.
 
 Feltman, Jennifer M. "Imagining the sorrows of death and pains of hell in the _Hours of Catherine of Cleves_. Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 111-132. London and New York: Routledge, 2017. ILL
 
