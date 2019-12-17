@@ -1,6 +1,6 @@
 Archibald, Elizabeth P. _Ask the Past: Pertinent and Impertinent Advice from Yesteryear_. Hachette, 2015.
 
-* "Based on the popular blog, _Ask the Past_ is full of the wisdom of the ages - as well as the fad diets, zany pickup lines, and bacon Band-Aids of the ages. Drawn from centuries of antique texts by historian and bibliophile Elizabeth P. Archibald, _Ask the Past_ offers a delightful array of advice both wise and weird."
+* Based on the popular blog, _Ask the Past_ is full of the wisdom of the ages - as well as the fad diets, zany pickup lines, and bacon Band-Aids of the ages. Drawn from centuries of antique texts by historian and bibliophile Elizabeth P. Archibald, _Ask the Past_ offers a delightful array of advice both wise and weird.
 
 Anderson, Benjamin. _Cosmos and Community in Early Medieval Art_. Yale University Press, 2017. Electronic Book
 
