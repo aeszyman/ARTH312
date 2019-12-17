@@ -46,6 +46,7 @@ Husband, Timothy B. _The World in Play: Luxury Cards 1430-1540_. The Metropolita
 Jotischky, Andrew. _A Hermit's Cookbook: Monks, Food and Fasting in the Middle Ages_. A&C Black, 2011.
 
 Larrington, Carolyne. _Winter Is Coming: The Medieval World of Game of Thrones_. Tauris, 2016.
+* Game of Thrones is a phenomenon. As Carolyne Larrington reveals in this essential companion to George R R Martin's fantasy novels and the HBO mega-hit series based on them the show is the epitome of water-cooler TV. It is the subject of intense debate in national newspapers; by PhD students asking why Westeros has yet to see an industrial revolution, or whether astronomy explains the continent's climatic problems and unpredictable solstices ('winter is coming'); and by bloggers and cultural commentators contesting the series' startling portrayals of power, sex and gender. Yet no book has divulged how George R R Martin constructed his remarkable universe out of the Middle Ages. Discussing novels and TV series alike, Larrington explores among other topics: sigils, giants, dragons and direwolves in medieval texts; ravens, old gods and the Weirwood in Norse myth; and a gothic, exotic orient in the eastern continent, Essos. From the White Walkers to the Red Woman, from Casterly Rock to the Shivering Sea, this is an indispensable guide to the twenty-first century's most important fantasy creation.
 
 Lindquist, Sherry C. M. and Asa Simon Mittman. _Medieval Monsters: Terrors, Aliens, Wonders_. The Morgan Library & Museum, 2018.
 
