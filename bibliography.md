@@ -20,6 +20,9 @@ Bornstein, Daniel E. ed. _Medieval Christianity_. Minneapolis, MN: Fortress Pres
 
 Ciresi, Lisa Victoria. "_Maria Ecclesia_: The Aachen Marienschrein as an alternate body for the Virgin Mary." In _Binding the Absent Body in Medieval and Modern Art_. Edited by Emily Kelley and Elizabeth Richards Rivenbark, pp. 51-72. London and New York: Routledge, 2017. ILL
 
+Clark, Willene B. _A Medieval Book of Beasts: The Second-Family Bestiary_. The Boydell Press, 2006.
+* The bestiary - a book of animals, both real and mythical - is one of the most interesting and appealing medieval artefacts. The "Second-family" bestiary is the most important and frequently produced version (some 49 known manuscripts exist). Of English origin and predominantly English production, it boasts a spiritual text "modernized" to meet the needs of its time, and features exceptional illustrations. This study addresses the work's purpose and audience, challenging previous assumptions with direct evidence in the manuscripts themselves, linking their use to teachers at the elementary-school level, and exploring the art, the text, and the cultural context for the bestiary. It includes a critical edition and new English translation, and a catalogue raisonné of the manuscripts. Fully illustrated. The late WILLENE B. CLARK was Professor of Art History Emerita at Marlboro College, Vermont.
+
 Deliyannis, Deborah, Hendrik Dey, and Paolo Squatriti. _Fifty Early Medieval Things: Materials of Culture in Late Antiquity and the Early Middle Ages_. Ithaca: Cornell University Press, 2019. Electronic Book
 
 Emmerson, Richard K. _Apocalypse Illuminated: The Visual Exegesis of Revelation in Medieval Illustrtated Manuscripts_. The Pennsylvania State University Press, 2018.
