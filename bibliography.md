@@ -76,4 +76,6 @@ Truitt, E. R. _Medieval Robots: Mechanism, Magic, Nature, and Art_. University o
 
 Utz, Richard J. _Medievalism: A Manifesto_. Kalamazoo, ARC Humanities Press, 2017.
 
+Wright, David H. _The Roman Vergil and the Origins of Medieval Book Design_. University of Toronto Press, 2001.
+
 Ziolkowski, Jan M. _The Juggler of Notre Dame and the Medievalizing of Modernity_. Open Book Publishers, 2018.
