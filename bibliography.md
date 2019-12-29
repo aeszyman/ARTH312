@@ -45,6 +45,8 @@ Husband, Timothy B. _The World in Play: Luxury Cards 1430-1540_. The Metropolita
 
 Jotischky, Andrew. _A Hermit's Cookbook: Monks, Food and Fasting in the Middle Ages_. A&C Black, 2011.
 
+Kendall, Calvin B. _The Allegory of the Church: Romanesque Portals and Their Verse Inscriptions_. Toronto: University of Toronto Press, 1998.
+
 Larrington, Carolyne. _Winter Is Coming: The Medieval World of Game of Thrones_. Tauris, 2016.
 * Game of Thrones is a phenomenon. As Carolyne Larrington reveals in this essential companion to George R R Martin's fantasy novels and the HBO mega-hit series based on them the show is the epitome of water-cooler TV. It is the subject of intense debate in national newspapers; by PhD students asking why Westeros has yet to see an industrial revolution, or whether astronomy explains the continent's climatic problems and unpredictable solstices ('winter is coming'); and by bloggers and cultural commentators contesting the series' startling portrayals of power, sex and gender. Yet no book has divulged how George R R Martin constructed his remarkable universe out of the Middle Ages. Discussing novels and TV series alike, Larrington explores among other topics: sigils, giants, dragons and direwolves in medieval texts; ravens, old gods and the Weirwood in Norse myth; and a gothic, exotic orient in the eastern continent, Essos. From the White Walkers to the Red Woman, from Casterly Rock to the Shivering Sea, this is an indispensable guide to the twenty-first century's most important fantasy creation.
 
@@ -69,6 +71,8 @@ Rudolph, Conrad. "Inventing the Exegetical Stained-Glass Window: Suger, Hugh, an
 Rudolph, Conrad. _Pilgrimage to the End of the World: The Road to Santiago de Compostela_ (Chicago and London: The University of Chicago Press, 2004).
 
 Ruys, Juanita Feros. _Demons in the Middle Ages_. Kalamazoo, Michigan: Medieval Institute Publications, 2017.
+
+Seidel, Linda. "The Moissac Portico and the Rhetoric of Appropriation." In _Studien zur Geschichte der Europäischen Skulptur im 12./13. Jahrhundert_. Edited by Herbert Beck and Kerstin Hengevoss-Dürkop, 287-302 and 136-146. Frankfurt am Main: Henrich Verlag, 1994.
 
 Strickland, Debra Higgs. "Edward I, Exodus, and England on the Hereford World Map." _Speculum_ 93.2 (2018): 420-469.
 
