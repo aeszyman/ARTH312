@@ -74,6 +74,8 @@ Seidel, Linda. "The Moissac Portico and the Rhetoric of Appropriation." In _Stud
 
 Strickland, Debra Higgs. "Edward I, Exodus, and England on the Hereford World Map." _Speculum_ 93.2 (2018): 420-469.
 
+Strickland, Debra Higgs. _Saracens, Demons, and Jews: Making Monsters in Medieval Art_. Princeton University Press, 2003.
+
 Truitt, E. R. _Medieval Robots: Mechanism, Magic, Nature, and Art_. University of Pennsylvania Press, 2015.
 
 Utz, Richard J. _Medievalism: A Manifesto_. Kalamazoo, ARC Humanities Press, 2017.
