@@ -2,6 +2,8 @@ Archibald, Elizabeth P. _Ask the Past: Pertinent and Impertinent Advice from Yes
 
 * Based on the popular blog, _Ask the Past_ is full of the wisdom of the ages - as well as the fad diets, zany pickup lines, and bacon Band-Aids of the ages. Drawn from centuries of antique texts by historian and bibliophile Elizabeth P. Archibald, _Ask the Past_ offers a delightful array of advice both wise and weird.
 
+Arnold, John H. _The Oxford Handbook of Medieval Christianity_. Oxford University Press, 2014.
+
 Barnet, Peter, Michael Brandt, and Gerhard Lutz, eds. _Medieval Treasures from Hildesheim_. The Metropolitan Museum of Art, 2013.
 
 Berzock, Kathleen Bickford. _Caravans of Gold, Fragments in Time: Art, Culture, and Exchange Across Medieval Saharan Africa_. Princeton University Press, 2019.
